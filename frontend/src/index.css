@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..800;1,9..40,300..800&family=Syne:wght@400..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-gray-300 font-body antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading text-white tracking-tight;
+  }
+  
+  /* Custom scrollbar for dark theme */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-background;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-surface border border-border rounded-full hover:bg-surface2;
+  }
+}
+
+@layer components {
+  .metric-card {
+    @apply bg-surface2 border-l-4 border-primary rounded-xl p-5 shadow-lg relative overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-primary/20 hover:border-secondary;
+  }
+  .card {
+    @apply bg-surface2 border border-border rounded-xl shadow-lg p-6 relative overflow-hidden transition-all duration-300;
+  }
+  .glass-header {
+    @apply bg-gradient-to-r from-surface2 to-surface border-l-4 border-primary rounded-lg p-4 mb-4 backdrop-blur-sm border-y border-r border-y-border border-r-border;
+  }
+  .badge-low {
+    @apply bg-emerald-900/40 text-emerald-400 px-3 py-1 rounded-full text-xs font-bold border border-emerald-800/50;
+  }
+  .badge-moderate {
+    @apply bg-amber-900/40 text-amber-400 px-3 py-1 rounded-full text-xs font-bold border border-amber-800/50;
+  }
+  .badge-high {
+    @apply bg-orange-900/40 text-orange-400 px-3 py-1 rounded-full text-xs font-bold border border-orange-800/50;
+  }
+  .badge-critical {
+    @apply bg-red-900/40 text-red-500 px-3 py-1 rounded-full text-xs font-bold border border-red-800/50;
+  }
+}
