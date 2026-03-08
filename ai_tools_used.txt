@@ -1,12 +1,20 @@
-AI Tools Used in FairGuard AI:
+# AI Tools Used in FairGuard AI
 
-1. Claude
-- Used as the main pair-programming AI assistant.
-- Designed the system architecture and logic.
-- Developed the backend endpoints and integrated the frontend components.
-- Debugged data serialization issues and application errors.
-- Updated documentation, created the README files, and generated the PDF reporting layout.
+This project heavily leveraged advanced AI pair-programming to accelerate development, design the architecture, and write complex backend algorithms. Below is a detailed breakdown of the AI tools used and their specific contributions to the project:
 
-2. GitHub Copilot / Cursor
-- Used as a supplementary tool for faster coding.
-- Provided syntax autocompletion and generated boilerplate code throughout the development process.
+## 1. Claude
+**Role:** Primary AI Pair-Programmer & Architect
+**Contributions:**
+- **System Architecture:** Designed the decoupled architecture, splitting the original monolithic Streamlit script into a robust FastAPI backend and a modern React/Tailwind frontend.
+- **Backend Development (`api.py`):** Wrote the entire FastAPI application, exposing the core mathematical fairness metrics (Demographic Parity, Disparate Impact, etc.) via RESTful POST/GET endpoints.
+- **Frontend UI/UX:** Built the React frontend components using Tailwind CSS, Recharts for data visualization, and implemented the dynamic file upload and routing systems.
+- **Complex Debugging:** Successfully identified and resolved intricate JSON serialization bugs where internal pandas/numpy calculations returned `numpy.int64` and `numpy.bool` types that crashed the API response.
+- **Reporting Engine:** Developed the logic that dynamically evaluates real-time metric outputs against 7 global regulations (EU AI Act, DPDP India, etc.) and generates the downloadable PDF compliance certificates.
+- **Documentation:** Structured and wrote the comprehensive README.md files explaining the project, datasets, models, and real-world impact.
+
+## 2. GitHub Copilot / Cursor
+**Role:** Supplementary Coding Assistant
+**Contributions:**
+- **Rapid Prototyping:** Assisted during the live coding process by auto-completing repetitive React component structures, API wrapper functions, and Tailwind class names.
+- **Boilerplate Generation:** Generated standard configuration files (like `vite.config.js`, `tailwind.config.js`, `.gitignore`) and common imports, saving significant manual typing time.
+- **Inline Refactoring:** Suggested minor syntax optimizations and helped format the Python pandas dataframe manipulations for cleaner, more readable code.
