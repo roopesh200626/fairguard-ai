@@ -1,0 +1,12 @@
+AI Tools Used in FairGuard AI:
+
+1. Google Gemini (Advanced Agentic Assistant)
+- Used as a core pair-programming AI.
+- Designed the decoupled architecture (FastAPI backend + React/Tailwind frontend).
+- Developed the Python backend endpoints (`api.py`) and integrated the frontend.
+- Debugged complex data serialization issues (Numpy arrays to standard JSON).
+- Updated documentation and generated the PDF reporting logic.
+
+2. GitHub Copilot / Cursor
+- Assisted with boilerplate code generation.
+- Provided syntax autocompletion throughout the development process.
