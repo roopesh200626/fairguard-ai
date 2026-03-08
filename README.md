@@ -49,6 +49,13 @@ Our built-in case study demonstrates the power of FairGuard AI on a biased loan 
 | **Visualizations** | Plotly |
 | **Reporting** | ReportLab (PDF Generation) |
 
+## 🤖 AI Tools Used
+
+This project was developed with the assistance of advanced AI tools to accelerate development and ensure high-quality code:
+
+- **Google Gemini (Advanced Agentic Assistant)**: Utilized as a core pair-programming AI to design the architecture, write the FastAPI backend, develop the React/Tailwind frontend, debug complex serialization issues, and generate the reporting logic.
+- **GitHub Copilot / Cursor** (Optional/General): Assisted with boilerplate code generation and syntax autocompletion throughout the hacking process.
+
 ## 🚀 How to Run
 
 1. Clone the repository and navigate to the project directory:
