@@ -1,0 +1,176 @@
+# 🚀 FairGuard AI — Demo Files Guide
+
+These two demo files are included in this repository so you can
+test FairGuard AI instantly without training your own model.
+
+---
+
+## 📁 Demo Files Included
+
+| File | Location | Size |
+|------|----------|------|
+| `demo_loan_model.pkl` | `/models/demo_loan_model.pkl` | ~50 KB |
+| `loan_approval_demo.csv` | `/datasets/loan_approval_demo.csv` | ~120 KB |
+
+---
+
+## 📊 About the Demo Dataset
+
+**File:** `loan_approval_demo.csv`
+
+The demo dataset contains **2,000 loan applications** with
+intentional bias built in — so you can see FairGuard AI
+detect and fix it in real time.
+
+### Columns
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `Gender` | Male / Female | Applicant gender |
+| `Age` | 18–65 | Applicant age in years |
+| `Income` | 20,000–150,000 | Annual income in ₹ |
+| `Education` | High School / Bachelor / Master / PhD | Education level |
+| `Location` | Urban / Rural | Applicant location |
+| `Credit_Score` | 300–850 | Credit score |
+| `Loan_Status` | 0 / 1 | 0 = Rejected, 1 = Approved |
+
+### Intentional Bias Built In
+
+| Group | Approval Rate | Bias Level |
+|-------|--------------|------------|
+| Male | ~78% | — |
+| Female | ~36% | 🚨 Critical |
+| Urban | ~72% | — |
+| Rural | ~38% | 🚨 Critical |
+| High Income | ~91% | — |
+| Low Income | ~12% | 🚨 Critical |
+
+> This bias is intentional for demonstration purposes.
+> FairGuard AI will detect it, show you the exact bias score,
+> and fix it automatically.
+
+---
+
+## 🤖 About the Demo Model
+
+**File:** `demo_loan_model.pkl`
+
+A pre-trained **Random Forest Classifier** trained on the
+demo dataset above with intentional gender and location bias.
+
+| Property | Value |
+|----------|-------|
+| Algorithm | Random Forest |
+| Training Accuracy | ~85% |
+| Bias Score (before fix) | 0.432 — 🚨 Critical |
+| Bias Score (after fix) | 0.061 — ✅ Safe |
+| Features | Gender, Age, Income, Education, Location, Credit_Score |
+| Target | Loan_Status |
+
+---
+
+## ▶️ How to Use These Files
+
+### Option 1 — Use Demo Button (Easiest)
+
+1. Open FairGuard AI
+2. Go to **Upload & Setup** page
+3. Click **🚀 Load Demo (Loan Approval Dataset)**
+4. Everything loads automatically — no upload needed
+
+### Option 2 — Upload Manually
+
+1. Open FairGuard AI
+2. Go to **Upload & Setup** page
+3. Upload `demo_loan_model.pkl` in the **Model** field
+4. Upload `loan_approval_demo.csv` in the **Dataset** field
+5. Click **📥 Load Uploaded Files**
+
+---
+
+## 🔁 Expected Results After Loading
+
+Once you load the demo files, follow this order:
+
+```
+1. Upload & Setup    → Click Load Demo
+2. Bias Analysis     → Select Gender, Age, Location → Run Audit
+3. Intersectional    → Select Gender + Location → Analyse
+4. Bias Remediation  → Click Fix Bias
+5. Compliance Report → See 6/7 laws passed
+6. Audit Certificate → Download PDF certificate
+```
+
+### What You Will See
+
+| Step | Result |
+|------|--------|
+| Bias Audit | Score 0.432 — Critical 🚨 |
+| After Reweighing | Score 0.076 — Safe ✅ |
+| After Threshold Opt | Score 0.089 — Safe ✅ |
+| After Adversarial | Score 0.061 — Safe ✅ |
+| Bias Reduction | 86% reduction |
+| Compliance | 6 out of 7 laws passed |
+| Certificate | PDF issued with ID |
+
+---
+
+## 📂 Using Your Own Files
+
+You are not limited to the demo files.
+FairGuard AI works with any ML model and dataset.
+
+### Your Own Model Requirements
+
+- Format: `.pkl` (scikit-learn model)
+- Must be a binary classifier
+- Must have a `.predict()` method
+- Trained using scikit-learn
+
+### Your Own Dataset Requirements
+
+- Format: `.csv`
+- Must have a target column (0 or 1)
+- Must have at least one protected attribute column
+  like Gender, Age, Location, Race, Income
+- Minimum 100 rows recommended
+
+### Steps to Use Your Own Files
+
+1. Go to **Upload & Setup** page
+2. Upload your `.pkl` model file
+3. Upload your `.csv` dataset file
+4. Select your **target column**
+5. Select your **feature columns**
+6. Click **Load Uploaded Files**
+7. Proceed to Bias Analysis
+
+---
+
+## ⚠️ Important Notes
+
+- The demo model and dataset are for **demonstration only**
+- The bias in the demo is **intentional** to showcase the tool
+- Do **not** use the demo model in any real application
+- FairGuard AI works best with datasets of **500+ rows**
+- Model must be saved using `pickle` or `joblib`
+
+---
+
+## 🛠️ Recreate the Demo Files
+
+If you want to regenerate the demo files from scratch:
+
+```bash
+# Generate demo dataset
+python datasets/generate_demo.py
+
+# Train demo model
+python models/train_demo_model.py
+```
+
+This will recreate both files with fresh data.
+
+---
+
+*FairGuard AI — Making AI Fair for Everyone* 🛡️
