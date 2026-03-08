@@ -1,5 +1,5 @@
 // Use environment variable for production, default to localhost for development
-const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_BASE = import.meta.env.VITE_API_URL || 'https://fairguard-ai.onrender.com';
 
 export async function checkHealth() {
   const res = await fetch(`${API_BASE}/health`);
