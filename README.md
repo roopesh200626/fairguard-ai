@@ -49,6 +49,28 @@ Our built-in case study demonstrates the power of FairGuard AI on a biased loan 
 | **Visualizations** | Plotly |
 | **Reporting** | ReportLab (PDF Generation) |
 
+## 🧰 Tools & Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| 💻 **Frontend** | React (Vite), Tailwind CSS, Recharts, React Router |
+| ⚙️ **Backend** | Python 3.12, FastAPI, Uvicorn |
+| 🧠 **ML & Data** | scikit-learn, pandas, numpy |
+| 🔍 **Bias Detection** | Demographic Parity Difference, Equal Opportunity Difference, Predictive Parity Difference, Disparate Impact Ratio |
+| 🛠️ **Debiasing Techniques**| Reweighing, Threshold Optimization, Adversarial Debiasing |
+| 📊 **Visualization** | Plotly, Recharts |
+| 🖥️ **Dashboard** | Streamlit |
+| 📄 **PDF Generation** | ReportLab |
+| 🚀 **Deployment** | Vercel (Frontend), Render (Backend), Streamlit Cloud (Streamlit App) |
+| 🗄️ **Version Control** | Git, GitHub |
+
 ## 🤖 AI Tools Used
 
 This project was developed with the assistance of advanced AI tools to accelerate development and ensure high-quality code:
