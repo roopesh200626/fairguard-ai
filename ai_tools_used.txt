@@ -6,3 +6,7 @@ AI Tools Used in FairGuard AI:
 - Developed the backend endpoints and integrated the frontend components.
 - Debugged data serialization issues and application errors.
 - Updated documentation, created the README files, and generated the PDF reporting layout.
+
+2. GitHub Copilot / Cursor
+- Used as a supplementary tool for faster coding.
+- Provided syntax autocompletion and generated boilerplate code throughout the development process.

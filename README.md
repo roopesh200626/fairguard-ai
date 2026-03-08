@@ -51,9 +51,10 @@ Our built-in case study demonstrates the power of FairGuard AI on a biased loan 
 
 ## 🤖 AI Tools Used
 
-This project was developed with the assistance of an advanced AI tool to accelerate development and ensure high-quality code:
+This project was developed with the assistance of advanced AI tools to accelerate development and ensure high-quality code:
 
-- **Claude**: Utilized as a core pair-programming AI to design the system architecture, write the backend algorithms and endpoints, develop the frontend UI, debug issues, and generate the reporting logic.
+- **Claude**: Utilized as the primary pair-programming AI to design the system architecture, write the backend algorithms and endpoints, develop the frontend UI, debug issues, and generate the reporting logic.
+- **GitHub Copilot / Cursor**: Assisted with boilerplate code generation and syntax autocompletion throughout the hacking process.
 
 ## 🚀 How to Run
 
