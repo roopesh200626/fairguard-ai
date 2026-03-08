@@ -18,3 +18,53 @@ This project heavily leveraged advanced AI pair-programming to accelerate develo
 - **Rapid Prototyping:** Assisted during the live coding process by auto-completing repetitive React component structures, API wrapper functions, and Tailwind class names.
 - **Boilerplate Generation:** Generated standard configuration files (like `vite.config.js`, `tailwind.config.js`, `.gitignore`) and common imports, saving significant manual typing time.
 - **Inline Refactoring:** Suggested minor syntax optimizations and helped format the Python pandas dataframe manipulations for cleaner, more readable code.
+
+---
+
+# Tools & Technologies Used
+
+**FRONTEND:**
+- React (Vite)
+- Tailwind CSS
+- Recharts
+- React Router
+
+**BACKEND:**
+- Python 3.12
+- FastAPI
+- Uvicorn
+
+**ML & DATA:**
+- scikit-learn
+- pandas
+- numpy
+
+**BIAS DETECTION (Custom built):**
+- Demographic Parity Difference
+- Equal Opportunity Difference
+- Predictive Parity Difference
+- Disparate Impact Ratio
+
+**DEBIASING TECHNIQUES:**
+- Reweighing
+- Threshold Optimization
+- Adversarial Debiasing
+
+**VISUALIZATION:**
+- Plotly
+- Recharts
+
+**DASHBOARD:**
+- Streamlit
+
+**PDF GENERATION:**
+- ReportLab
+
+**DEPLOYMENT:**
+- Vercel (Frontend)
+- Render (Backend)
+- Streamlit Cloud (Streamlit App)
+
+**VERSION CONTROL:**
+- Git
+- GitHub
