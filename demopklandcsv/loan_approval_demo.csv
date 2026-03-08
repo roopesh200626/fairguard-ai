@@ -1,0 +1,2001 @@
+Gender,Age,Income,Education,Location,Credit_Score,Loan_Status
+Male,49,64314,Bachelor,Urban,434,1
+Female,28,40045,Bachelor,Suburban,821,1
+Female,56,46327,High School,Rural,382,0
+Female,49,55709,Bachelor,Urban,343,1
+Male,35,65179,High School,Suburban,782,1
+Male,31,55338,Bachelor,Suburban,792,0
+Male,37,99681,Master,Urban,798,1
+Female,37,84148,High School,Suburban,317,0
+Female,52,62919,High School,Suburban,593,1
+Female,63,78446,High School,Suburban,447,1
+Male,46,75838,Bachelor,Suburban,771,1
+Female,34,67894,Master,Rural,471,1
+Female,27,26447,High School,Urban,830,0
+Male,30,95149,PhD,Urban,419,1
+Male,57,56616,High School,Urban,365,0
+Male,64,109655,Master,Urban,440,1
+Male,41,84567,Bachelor,Urban,745,1
+Male,39,67099,Bachelor,Urban,805,0
+Male,64,105831,Bachelor,Urban,488,1
+Male,42,91799,Bachelor,Urban,457,1
+Female,25,88367,Master,Suburban,545,0
+Male,54,76172,Master,Urban,332,1
+Male,48,85863,Bachelor,Rural,660,1
+Male,28,72043,High School,Rural,629,1
+Male,27,112569,High School,Urban,811,1
+Female,36,65178,Master,Suburban,370,1
+Male,39,87980,Bachelor,Rural,612,1
+Male,53,112956,Bachelor,Urban,378,0
+Female,32,37199,Bachelor,Urban,468,0
+Male,41,34131,Master,Urban,479,0
+Female,45,77786,Bachelor,Urban,559,0
+Male,36,41349,Master,Urban,785,0
+Male,28,90931,Master,Rural,304,1
+Female,42,32665,Bachelor,Suburban,596,0
+Female,63,20534,High School,Rural,659,0
+Female,47,56132,Master,Urban,416,0
+Male,35,48814,Bachelor,Urban,656,1
+Male,58,48263,PhD,Urban,738,0
+Female,42,83580,High School,Urban,630,0
+Male,39,45735,High School,Urban,824,1
+Male,26,45830,PhD,Suburban,487,1
+Male,24,77893,Bachelor,Urban,580,1
+Male,44,74673,Bachelor,Suburban,810,0
+Female,47,78232,Master,Urban,765,0
+Male,58,75066,Bachelor,Suburban,414,1
+Female,45,39324,Bachelor,Rural,535,0
+Male,40,40335,High School,Rural,637,0
+Male,46,53741,Master,Urban,821,1
+Male,42,40692,Master,Suburban,498,0
+Male,33,77295,High School,Suburban,349,1
+Female,62,30358,Master,Rural,441,0
+Female,54,23240,Master,Rural,827,1
+Female,25,65689,Bachelor,Rural,813,0
+Female,63,21936,Bachelor,Urban,329,1
+Female,28,63965,Bachelor,Rural,381,0
+Female,43,20882,High School,Suburban,330,0
+Male,54,53906,Master,Urban,632,1
+Male,38,115103,Master,Urban,476,1
+Male,45,109675,Bachelor,Urban,669,1
+Male,55,76525,Bachelor,Rural,846,1
+Male,49,68230,High School,Urban,834,1
+Male,64,49520,High School,Urban,405,0
+Female,62,22244,Bachelor,Urban,396,0
+Male,60,81934,High School,Suburban,529,1
+Male,43,55566,Bachelor,Urban,526,1
+Male,38,103193,Bachelor,Rural,670,1
+Male,55,60134,Master,Urban,399,1
+Female,27,53541,Bachelor,Suburban,744,0
+Male,27,71185,Bachelor,Suburban,767,1
+Female,55,84952,Bachelor,Urban,354,0
+Female,22,59563,High School,Urban,494,1
+Male,31,58018,High School,Suburban,819,1
+Male,42,84219,High School,Urban,723,1
+Female,26,36121,Master,Urban,614,0
+Female,23,21674,High School,Suburban,427,0
+Female,43,86275,Master,Suburban,331,1
+Female,23,87081,PhD,Rural,392,0
+Male,31,68862,Master,Urban,818,1
+Male,55,88870,High School,Urban,557,1
+Male,37,116694,PhD,Urban,519,1
+Female,60,43004,High School,Suburban,405,0
+Female,43,30492,Bachelor,Suburban,847,0
+Male,33,61379,Master,Suburban,715,1
+Male,45,94729,Bachelor,Urban,608,1
+Male,61,58378,Bachelor,Rural,665,1
+Male,59,84353,High School,Urban,820,1
+Female,31,29045,Bachelor,Urban,758,0
+Female,56,40116,Bachelor,Suburban,669,0
+Female,53,38667,Bachelor,Urban,630,0
+Male,28,95982,PhD,Rural,310,1
+Male,42,66683,PhD,Rural,806,1
+Female,41,50935,Master,Suburban,718,1
+Female,47,51624,Bachelor,Suburban,421,0
+Female,25,33440,Bachelor,Suburban,534,0
+Female,43,66501,PhD,Rural,630,1
+Male,36,50527,Master,Urban,842,1
+Male,61,53569,Bachelor,Urban,647,0
+Male,42,41151,High School,Rural,711,0
+Male,36,101094,High School,Rural,523,1
+Male,43,89174,Bachelor,Rural,452,0
+Male,49,74739,Bachelor,Urban,511,1
+Female,35,61337,Master,Urban,391,1
+Male,48,65303,High School,Urban,630,0
+Male,62,64700,High School,Rural,766,1
+Female,61,28433,Bachelor,Rural,527,0
+Male,49,96788,Bachelor,Rural,493,1
+Male,47,101045,High School,Urban,829,0
+Female,23,41751,Bachelor,Urban,542,0
+Male,46,43900,Bachelor,Suburban,688,0
+Male,24,110059,Master,Suburban,575,1
+Male,29,31881,Bachelor,Urban,749,1
+Male,54,63037,Bachelor,Rural,777,0
+Female,63,78144,Bachelor,Urban,779,1
+Female,56,68570,Master,Rural,587,1
+Female,27,66097,High School,Suburban,839,1
+Female,60,44503,Master,Rural,629,0
+Female,44,22779,Bachelor,Rural,769,0
+Male,46,78920,Master,Urban,833,1
+Female,64,59263,Master,Rural,766,1
+Male,40,110357,Bachelor,Rural,719,0
+Female,26,62281,Bachelor,Rural,421,0
+Female,32,71482,High School,Rural,607,0
+Male,33,111972,Master,Urban,633,1
+Male,31,105485,Bachelor,Suburban,719,1
+Male,29,84722,Bachelor,Suburban,625,0
+Male,45,119499,Master,Urban,549,1
+Female,49,66825,Master,Rural,394,0
+Female,62,44600,High School,Urban,595,0
+Male,57,36901,Bachelor,Urban,483,0
+Male,58,38597,Bachelor,Urban,559,1
+Male,42,93909,Bachelor,Rural,485,0
+Male,29,102391,Bachelor,Suburban,708,0
+Male,30,114214,Bachelor,Rural,368,1
+Male,36,38263,Bachelor,Rural,307,0
+Female,61,33543,Master,Urban,564,1
+Male,39,55805,High School,Urban,783,1
+Male,63,41874,Bachelor,Urban,670,1
+Female,41,71428,High School,Suburban,382,1
+Male,27,44079,High School,Suburban,510,0
+Female,33,77939,High School,Urban,612,0
+Female,23,73026,Bachelor,Rural,636,0
+Male,28,39018,Master,Suburban,789,1
+Male,37,79500,High School,Urban,702,1
+Male,24,42100,High School,Suburban,490,0
+Male,24,87021,PhD,Rural,634,1
+Male,48,49800,High School,Rural,821,1
+Female,64,71287,Master,Urban,386,1
+Male,61,59437,High School,Rural,361,0
+Male,59,106537,Master,Suburban,686,0
+Male,54,76675,Bachelor,Urban,445,1
+Female,49,36692,Master,Rural,452,0
+Male,22,50862,Master,Urban,648,1
+Male,29,41669,Bachelor,Suburban,477,1
+Male,58,83772,High School,Rural,786,0
+Female,53,72409,Master,Suburban,546,0
+Male,64,40878,Bachelor,Urban,553,0
+Female,58,47689,High School,Urban,799,0
+Female,25,31154,High School,Urban,840,0
+Male,51,71235,Master,Urban,651,1
+Female,27,66330,High School,Urban,811,0
+Male,40,30336,Bachelor,Rural,312,0
+Female,53,53313,Bachelor,Urban,450,0
+Female,30,66900,Master,Rural,349,0
+Male,33,75536,PhD,Urban,514,1
+Male,32,99504,PhD,Rural,671,1
+Female,37,69156,High School,Rural,412,0
+Male,22,46279,Master,Rural,551,1
+Male,42,98665,High School,Suburban,640,0
+Male,51,101386,Bachelor,Urban,352,1
+Female,34,74530,Bachelor,Urban,429,1
+Female,55,88199,High School,Urban,492,0
+Male,25,104055,PhD,Urban,356,1
+Male,49,107273,High School,Rural,396,1
+Male,59,96670,Bachelor,Urban,497,0
+Female,52,23326,Master,Rural,446,0
+Male,48,84028,Master,Urban,594,1
+Female,26,80289,High School,Suburban,311,0
+Male,46,48108,Bachelor,Suburban,632,0
+Female,24,24763,Master,Urban,519,0
+Male,54,112806,Bachelor,Urban,697,0
+Male,25,106533,Bachelor,Suburban,641,1
+Male,46,86830,High School,Suburban,811,0
+Female,41,31211,Bachelor,Urban,471,0
+Female,55,33569,Master,Urban,767,1
+Male,47,96406,Bachelor,Suburban,465,0
+Female,26,65337,Bachelor,Rural,469,0
+Female,56,72311,Bachelor,Urban,811,1
+Female,49,33515,Bachelor,Rural,488,0
+Male,50,63885,High School,Suburban,419,1
+Male,30,74369,High School,Suburban,404,1
+Male,59,60676,Bachelor,Rural,340,1
+Female,27,88580,Bachelor,Rural,620,0
+Female,40,25636,Bachelor,Urban,634,1
+Female,32,22892,Bachelor,Suburban,459,0
+Male,23,109414,Bachelor,Urban,563,1
+Male,30,102307,High School,Suburban,829,1
+Female,42,20654,PhD,Urban,776,0
+Female,45,74633,Bachelor,Suburban,651,1
+Female,55,37143,High School,Urban,844,0
+Female,43,75934,High School,Rural,509,1
+Female,24,87334,PhD,Urban,795,1
+Male,33,83664,High School,Rural,681,0
+Male,49,97384,Master,Suburban,780,1
+Female,51,28446,High School,Rural,304,0
+Female,47,68867,PhD,Rural,333,1
+Male,42,64485,Master,Urban,444,1
+Male,49,49456,Bachelor,Suburban,650,0
+Female,47,47200,High School,Rural,764,0
+Male,54,65554,High School,Rural,647,1
+Male,42,76922,Bachelor,Suburban,424,0
+Male,56,43409,Bachelor,Rural,570,1
+Female,55,62470,High School,Urban,656,1
+Female,62,71660,High School,Rural,826,0
+Male,39,93627,Bachelor,Rural,797,1
+Female,32,55450,Bachelor,Suburban,452,1
+Male,44,49692,High School,Suburban,352,0
+Male,43,119037,High School,Urban,448,1
+Female,38,51390,PhD,Urban,802,1
+Female,26,76116,Bachelor,Urban,749,1
+Female,32,33161,Master,Urban,518,1
+Female,51,52152,Bachelor,Rural,576,0
+Female,36,40836,High School,Suburban,751,0
+Male,48,59963,Bachelor,Urban,727,0
+Male,56,82265,Bachelor,Urban,382,1
+Male,54,46061,Master,Suburban,517,0
+Male,41,88226,Bachelor,Suburban,826,0
+Female,37,89444,High School,Rural,703,1
+Male,55,90006,PhD,Suburban,589,1
+Female,23,31957,Bachelor,Rural,719,1
+Female,56,24379,PhD,Urban,638,0
+Female,61,47959,PhD,Urban,718,1
+Male,49,87767,High School,Urban,506,1
+Female,60,20877,Bachelor,Urban,564,1
+Male,27,105319,Bachelor,Suburban,335,0
+Male,30,75397,Bachelor,Suburban,672,1
+Female,41,77913,Bachelor,Urban,787,0
+Male,22,55068,PhD,Urban,558,0
+Male,29,95727,Master,Urban,830,1
+Female,44,48742,High School,Rural,322,0
+Male,24,55832,High School,Suburban,403,1
+Female,25,66762,Bachelor,Urban,540,0
+Female,46,38830,High School,Urban,552,0
+Female,59,75044,Master,Rural,441,1
+Male,36,88160,Bachelor,Rural,750,1
+Male,42,53666,Bachelor,Urban,606,1
+Female,56,46627,High School,Rural,799,0
+Male,35,64642,Master,Rural,307,1
+Female,57,89521,High School,Urban,368,0
+Female,33,49475,Master,Urban,367,1
+Female,38,39403,Bachelor,Urban,707,1
+Male,60,39221,Master,Suburban,817,0
+Male,30,41410,Bachelor,Suburban,418,1
+Female,56,25629,High School,Suburban,330,0
+Male,34,91413,Master,Rural,817,1
+Male,36,31051,High School,Rural,782,1
+Female,39,76574,Bachelor,Rural,506,0
+Female,54,47675,High School,Suburban,686,0
+Female,27,60563,Master,Urban,711,0
+Female,48,31332,PhD,Rural,669,1
+Male,44,74757,Bachelor,Rural,652,1
+Female,48,88447,Bachelor,Rural,635,0
+Female,55,77104,Master,Urban,588,1
+Male,59,30307,High School,Rural,439,0
+Male,35,86889,PhD,Suburban,599,1
+Female,57,41673,High School,Urban,312,0
+Female,29,60870,PhD,Suburban,727,1
+Female,56,42821,Master,Urban,699,0
+Female,40,45494,Master,Suburban,408,0
+Male,51,101762,Bachelor,Rural,784,1
+Male,35,117225,Bachelor,Rural,655,0
+Female,41,57335,Bachelor,Urban,448,0
+Female,46,89351,High School,Urban,606,0
+Female,61,22429,Bachelor,Rural,832,0
+Female,45,61950,Bachelor,Urban,359,0
+Male,35,100427,Master,Rural,734,1
+Male,47,34992,Bachelor,Urban,320,1
+Female,59,51099,High School,Suburban,681,1
+Female,44,59385,Bachelor,Suburban,544,1
+Female,43,55919,Bachelor,Urban,372,1
+Female,40,80782,High School,Rural,748,1
+Female,24,60387,High School,Suburban,375,1
+Male,63,43255,Master,Rural,689,1
+Male,40,34567,Bachelor,Urban,641,0
+Male,30,78847,Bachelor,Rural,589,1
+Female,49,23491,Bachelor,Urban,630,1
+Male,41,50389,Master,Urban,558,1
+Male,28,74523,High School,Urban,725,1
+Male,35,91576,Master,Rural,305,1
+Male,30,73919,High School,Urban,305,1
+Female,40,78097,Master,Suburban,490,0
+Male,35,33358,Bachelor,Urban,447,0
+Male,59,118535,Bachelor,Urban,704,1
+Female,57,37718,Bachelor,Urban,557,0
+Male,61,35698,Bachelor,Urban,778,0
+Male,38,96809,High School,Rural,389,1
+Male,51,85805,Master,Urban,309,1
+Female,30,60633,High School,Urban,386,1
+Male,54,106777,PhD,Urban,450,1
+Female,46,64980,Master,Urban,329,0
+Male,35,105033,Bachelor,Urban,427,1
+Male,32,74041,Master,Suburban,377,0
+Male,56,61954,Bachelor,Rural,720,1
+Male,62,38002,High School,Rural,354,0
+Female,35,67631,PhD,Rural,779,1
+Female,51,69316,Bachelor,Rural,604,1
+Female,62,79342,Bachelor,Suburban,845,0
+Male,25,40703,Bachelor,Urban,404,1
+Male,25,79422,Bachelor,Urban,471,1
+Female,49,46660,PhD,Urban,798,0
+Male,29,91899,High School,Urban,321,1
+Male,23,42392,Bachelor,Urban,586,0
+Male,62,74724,Bachelor,Rural,690,1
+Male,43,62299,Bachelor,Urban,448,1
+Female,62,75501,Bachelor,Suburban,571,0
+Female,37,73309,High School,Urban,598,1
+Female,50,47043,High School,Urban,471,0
+Male,51,48782,High School,Suburban,346,0
+Male,33,108257,PhD,Suburban,506,1
+Male,56,107963,High School,Urban,752,0
+Male,32,50566,Master,Rural,694,1
+Male,42,97766,Master,Suburban,600,1
+Female,42,59236,Master,Urban,475,0
+Female,26,24150,Master,Urban,409,1
+Male,41,34765,High School,Suburban,501,0
+Female,58,24137,High School,Rural,467,0
+Female,24,49992,Bachelor,Urban,385,0
+Female,54,64921,High School,Rural,350,0
+Female,30,86917,Master,Urban,411,1
+Male,30,101088,Bachelor,Suburban,762,0
+Male,25,96163,Master,Urban,741,1
+Male,56,107525,High School,Suburban,570,1
+Female,38,83879,PhD,Rural,643,1
+Male,55,36589,High School,Urban,482,0
+Male,45,64812,Bachelor,Urban,802,1
+Male,53,75939,Bachelor,Rural,309,1
+Male,22,81493,Master,Suburban,793,1
+Female,29,65124,Bachelor,Urban,533,1
+Female,44,55897,PhD,Urban,597,0
+Male,61,49309,PhD,Rural,543,0
+Male,33,84195,Master,Suburban,808,1
+Male,33,55901,High School,Urban,650,1
+Male,36,53576,Master,Rural,566,1
+Male,62,61508,Master,Rural,500,1
+Male,40,104711,High School,Urban,538,1
+Male,47,55464,High School,Urban,633,0
+Female,50,50270,High School,Urban,714,0
+Female,43,30386,High School,Suburban,783,0
+Male,61,65440,Bachelor,Rural,736,1
+Male,42,86683,PhD,Rural,545,1
+Female,59,57879,Bachelor,Urban,307,0
+Male,41,31987,Bachelor,Urban,451,1
+Female,50,59132,PhD,Suburban,691,1
+Female,25,23626,High School,Urban,510,0
+Male,28,43026,Master,Rural,666,0
+Male,49,98309,Bachelor,Rural,385,0
+Female,49,74144,Bachelor,Urban,354,0
+Male,25,105414,Bachelor,Urban,745,1
+Female,43,24025,Bachelor,Urban,603,0
+Female,33,63226,High School,Urban,431,0
+Female,24,89711,Master,Suburban,720,1
+Male,43,40377,High School,Urban,684,1
+Female,23,41395,Master,Urban,497,0
+Male,45,37347,Bachelor,Suburban,346,1
+Male,55,63776,High School,Urban,502,1
+Female,48,61115,Bachelor,Rural,560,0
+Male,62,85798,High School,Urban,323,1
+Female,22,21407,Master,Urban,639,1
+Female,29,78560,PhD,Urban,711,1
+Male,44,116207,Master,Urban,560,0
+Male,59,85161,High School,Suburban,585,1
+Male,27,90652,Bachelor,Rural,812,1
+Male,43,64484,Bachelor,Urban,385,1
+Male,46,50922,Master,Urban,729,1
+Female,39,34390,High School,Urban,330,0
+Male,38,50316,Bachelor,Urban,739,1
+Male,33,106996,Bachelor,Urban,648,1
+Female,27,42486,High School,Rural,711,1
+Male,47,60266,Bachelor,Suburban,827,1
+Female,48,77716,Bachelor,Urban,609,0
+Male,29,44011,Master,Rural,695,1
+Male,40,32866,PhD,Suburban,637,0
+Female,63,42738,Bachelor,Urban,736,1
+Female,22,61662,Bachelor,Suburban,664,0
+Female,50,35123,High School,Suburban,412,0
+Female,56,45616,PhD,Urban,475,0
+Female,61,31182,PhD,Suburban,448,0
+Male,35,40956,PhD,Urban,477,0
+Male,56,80042,Master,Urban,681,1
+Female,41,66098,Bachelor,Suburban,522,0
+Female,34,46128,Master,Urban,558,1
+Female,59,51556,Bachelor,Urban,488,0
+Male,29,99497,Bachelor,Urban,605,1
+Male,64,71574,Master,Suburban,677,1
+Female,41,71962,High School,Suburban,642,1
+Male,54,118020,High School,Rural,455,1
+Female,47,32716,Bachelor,Suburban,354,0
+Female,60,72611,Bachelor,Urban,741,0
+Male,42,69454,Master,Urban,499,1
+Female,63,73144,High School,Rural,702,0
+Female,64,85220,High School,Suburban,476,0
+Male,62,116567,High School,Urban,748,1
+Female,30,69355,High School,Urban,840,1
+Male,45,48816,High School,Suburban,600,1
+Female,58,39159,Bachelor,Suburban,606,0
+Male,62,59432,Bachelor,Rural,566,1
+Female,38,79305,Master,Urban,513,1
+Male,45,102373,PhD,Suburban,782,1
+Male,42,64217,Bachelor,Suburban,561,1
+Female,60,28720,High School,Rural,366,0
+Male,62,35454,High School,Suburban,432,1
+Male,60,104960,Master,Suburban,839,1
+Female,34,39790,Bachelor,Suburban,811,0
+Female,32,78655,Master,Suburban,510,1
+Female,40,79643,Master,Rural,552,1
+Female,32,67374,PhD,Rural,337,1
+Male,34,69613,PhD,Urban,342,1
+Male,22,115678,Bachelor,Rural,704,1
+Male,61,89993,Bachelor,Suburban,345,1
+Female,40,69570,PhD,Suburban,753,1
+Female,33,70901,Bachelor,Urban,604,0
+Female,29,80186,High School,Rural,532,0
+Female,29,70251,Bachelor,Urban,544,1
+Male,33,91602,Bachelor,Rural,594,1
+Male,54,102045,Master,Rural,682,0
+Male,47,72222,Bachelor,Urban,457,1
+Male,60,79223,Bachelor,Rural,704,0
+Male,49,95333,PhD,Urban,300,1
+Female,26,82559,Master,Urban,516,1
+Male,29,79420,Bachelor,Suburban,806,1
+Male,46,105504,High School,Urban,329,1
+Male,48,32462,Bachelor,Urban,819,1
+Female,44,62863,Bachelor,Urban,574,1
+Female,51,85439,High School,Urban,791,1
+Male,44,43269,High School,Suburban,335,0
+Male,41,95942,Master,Urban,610,1
+Female,39,49777,Bachelor,Suburban,343,0
+Male,39,52553,Bachelor,Urban,454,1
+Female,23,47445,High School,Urban,376,0
+Female,25,87038,Bachelor,Urban,737,0
+Male,51,47369,Master,Rural,731,0
+Male,54,41795,High School,Rural,841,0
+Female,57,70577,High School,Suburban,338,0
+Male,39,98154,Bachelor,Rural,538,1
+Male,58,60143,PhD,Urban,312,1
+Female,40,34266,Bachelor,Suburban,421,0
+Female,49,59422,High School,Suburban,443,0
+Female,61,55208,Bachelor,Urban,754,0
+Female,41,51213,Master,Urban,667,1
+Male,54,34621,High School,Rural,546,0
+Male,33,88829,Bachelor,Urban,344,1
+Female,36,71588,Bachelor,Suburban,674,1
+Female,62,58285,High School,Urban,590,0
+Male,60,59227,Master,Urban,506,1
+Female,23,39867,Master,Suburban,818,0
+Male,50,42306,Bachelor,Suburban,541,0
+Male,62,83822,High School,Urban,413,0
+Male,31,54042,High School,Suburban,601,0
+Male,23,45086,Bachelor,Urban,575,0
+Male,32,47387,Bachelor,Urban,395,1
+Male,34,57042,High School,Suburban,593,0
+Male,31,119424,High School,Rural,659,1
+Female,35,25470,High School,Urban,587,1
+Female,39,34953,PhD,Urban,453,1
+Female,30,58507,Master,Rural,722,0
+Female,60,26523,PhD,Urban,349,1
+Male,49,70863,High School,Rural,506,1
+Male,24,40283,PhD,Rural,512,1
+Female,41,51169,High School,Urban,365,0
+Male,27,76999,Bachelor,Rural,531,0
+Female,48,42990,Master,Suburban,619,0
+Male,23,52908,Bachelor,Urban,436,1
+Female,50,33419,Bachelor,Urban,364,0
+Male,59,80225,High School,Urban,813,0
+Female,24,87600,High School,Rural,431,0
+Male,37,67663,Bachelor,Suburban,633,1
+Female,51,70654,Bachelor,Urban,331,1
+Male,61,77929,Master,Urban,797,1
+Female,23,22042,Bachelor,Urban,542,0
+Female,38,62982,Bachelor,Rural,491,1
+Male,62,69791,High School,Urban,441,1
+Female,33,53477,High School,Suburban,490,1
+Female,56,72709,PhD,Urban,448,1
+Male,64,99443,High School,Rural,715,0
+Female,22,56018,Bachelor,Rural,819,1
+Female,36,28061,High School,Rural,315,0
+Female,47,28609,Master,Urban,405,0
+Male,58,92653,Master,Rural,582,1
+Male,42,43699,High School,Urban,403,0
+Female,52,27857,High School,Urban,660,0
+Female,46,31620,Bachelor,Rural,334,0
+Male,44,58807,Bachelor,Rural,412,1
+Female,45,50111,High School,Urban,607,1
+Male,59,99390,Master,Urban,352,1
+Male,49,75226,High School,Suburban,380,0
+Male,42,89550,Master,Suburban,668,1
+Male,64,110072,Bachelor,Urban,541,0
+Female,39,48481,High School,Rural,330,0
+Male,57,105308,Bachelor,Urban,660,1
+Female,56,26743,Bachelor,Rural,532,0
+Female,30,74800,High School,Suburban,333,0
+Female,59,68773,Bachelor,Urban,542,0
+Male,51,66343,High School,Suburban,358,1
+Male,55,88219,High School,Urban,828,1
+Female,53,48552,High School,Rural,377,0
+Female,24,85242,Bachelor,Rural,601,1
+Male,24,63769,High School,Suburban,411,1
+Female,49,63730,Bachelor,Urban,712,1
+Female,36,48948,Bachelor,Urban,616,0
+Female,62,89093,Bachelor,Urban,444,1
+Female,44,89123,Master,Suburban,317,1
+Female,61,36535,Master,Rural,650,0
+Male,32,68084,Bachelor,Rural,454,1
+Female,53,66562,Bachelor,Urban,805,0
+Female,57,78535,High School,Suburban,659,0
+Male,54,118635,Master,Suburban,631,1
+Male,45,67034,High School,Rural,827,0
+Male,60,70317,Bachelor,Urban,311,1
+Female,55,43147,Master,Urban,374,0
+Female,49,65528,High School,Rural,511,0
+Male,58,87796,High School,Rural,582,0
+Female,28,86381,Bachelor,Urban,494,1
+Male,25,87221,Bachelor,Rural,329,1
+Female,58,58672,Master,Urban,308,1
+Female,22,33731,Master,Suburban,608,0
+Female,22,74512,High School,Rural,744,0
+Male,41,33164,High School,Urban,609,0
+Male,40,113973,Bachelor,Rural,725,1
+Male,50,71247,Bachelor,Urban,390,0
+Male,31,49601,Bachelor,Urban,755,1
+Female,39,61025,High School,Suburban,743,0
+Female,49,33107,Bachelor,Urban,378,0
+Female,56,63481,Bachelor,Urban,774,1
+Female,64,22581,Bachelor,Urban,402,0
+Female,52,71638,Bachelor,Urban,755,1
+Female,48,28418,Bachelor,Urban,613,0
+Female,32,49113,Bachelor,Urban,546,0
+Female,59,83044,High School,Rural,533,0
+Male,26,33722,High School,Urban,534,0
+Male,29,100442,Bachelor,Rural,686,1
+Male,55,70031,Bachelor,Urban,337,1
+Female,33,83288,Bachelor,Urban,460,0
+Female,59,77836,Bachelor,Urban,761,1
+Male,22,88819,Bachelor,Suburban,748,1
+Female,52,87084,Master,Rural,416,1
+Female,25,23407,High School,Suburban,540,0
+Male,26,71938,High School,Urban,325,1
+Male,51,79028,High School,Suburban,597,0
+Female,45,57122,Bachelor,Urban,453,0
+Male,24,79877,Bachelor,Urban,767,1
+Female,32,46505,High School,Rural,348,0
+Male,25,70469,Bachelor,Urban,345,1
+Female,47,74387,High School,Suburban,584,1
+Female,48,63169,Bachelor,Urban,381,0
+Female,64,71742,Bachelor,Suburban,343,0
+Female,48,60522,Master,Rural,572,0
+Male,63,114726,High School,Rural,693,0
+Male,27,57386,Master,Urban,357,1
+Male,36,61721,Master,Urban,300,0
+Female,51,63539,High School,Suburban,515,0
+Female,63,88321,High School,Urban,616,0
+Female,58,34799,Bachelor,Rural,527,0
+Male,58,32123,Master,Suburban,772,1
+Male,63,92993,Master,Urban,783,1
+Male,58,110122,Bachelor,Rural,586,0
+Male,56,55416,Master,Rural,810,1
+Female,44,60828,High School,Urban,757,1
+Male,27,108537,High School,Urban,394,1
+Male,25,80258,PhD,Urban,792,1
+Female,39,73997,Master,Urban,449,0
+Male,30,115166,Bachelor,Rural,322,1
+Male,50,108916,Master,Urban,514,1
+Female,34,34549,PhD,Suburban,698,1
+Male,38,76335,Master,Urban,709,1
+Female,53,40316,Master,Rural,430,0
+Female,43,46183,Master,Rural,447,0
+Female,25,44624,High School,Urban,680,1
+Male,26,65739,Master,Urban,408,1
+Female,58,66705,High School,Suburban,420,1
+Male,62,61980,Master,Suburban,594,1
+Male,34,119335,Bachelor,Urban,419,0
+Male,55,115016,Bachelor,Urban,755,1
+Female,43,29589,Bachelor,Urban,829,0
+Male,44,96253,High School,Urban,468,1
+Male,24,115481,High School,Rural,442,0
+Female,63,50286,PhD,Suburban,336,1
+Male,55,60009,PhD,Urban,560,1
+Male,53,36782,Bachelor,Suburban,530,0
+Male,42,55933,PhD,Urban,553,1
+Male,42,107154,Master,Rural,628,1
+Male,32,38307,Bachelor,Urban,596,0
+Male,60,105874,High School,Urban,309,0
+Female,25,47304,PhD,Urban,745,1
+Male,22,80772,Bachelor,Urban,529,1
+Male,49,102084,Master,Rural,835,1
+Female,45,56701,Master,Rural,377,0
+Male,56,116700,Master,Urban,724,1
+Female,34,77241,Bachelor,Suburban,492,0
+Male,55,115712,High School,Urban,700,1
+Male,32,98477,Bachelor,Rural,408,1
+Male,57,35695,Bachelor,Urban,562,0
+Male,38,69169,High School,Urban,628,0
+Male,56,77947,Bachelor,Urban,662,1
+Male,39,77224,Bachelor,Rural,677,0
+Male,61,75865,Master,Rural,640,1
+Male,43,55553,High School,Urban,558,1
+Male,45,90410,Bachelor,Urban,634,0
+Male,40,54816,High School,Urban,384,1
+Male,58,85026,High School,Rural,821,0
+Male,60,80705,High School,Rural,607,0
+Female,42,77692,Master,Urban,561,1
+Male,29,103914,High School,Urban,751,1
+Female,49,53785,Master,Suburban,550,1
+Female,26,67997,High School,Urban,623,1
+Male,38,77365,Master,Urban,528,1
+Female,58,33303,Master,Urban,596,0
+Female,57,55187,PhD,Urban,536,1
+Male,40,55006,Master,Rural,516,1
+Male,48,71198,PhD,Rural,545,0
+Female,55,33753,Master,Urban,747,0
+Female,32,58090,Bachelor,Rural,618,0
+Male,33,62443,High School,Urban,731,0
+Male,42,72316,High School,Suburban,703,1
+Male,32,94486,High School,Rural,336,1
+Male,60,35877,Bachelor,Rural,641,0
+Female,49,88653,Bachelor,Urban,688,1
+Male,26,34922,Master,Urban,333,0
+Male,38,34686,PhD,Urban,338,0
+Female,41,24042,Bachelor,Rural,508,0
+Male,62,109943,Bachelor,Urban,451,0
+Male,33,62006,PhD,Suburban,664,1
+Female,27,34016,High School,Suburban,498,0
+Female,38,45022,Master,Rural,378,1
+Male,40,116590,High School,Suburban,776,0
+Male,47,53527,Bachelor,Urban,733,1
+Male,53,48443,High School,Urban,331,0
+Male,27,46524,Master,Urban,386,1
+Male,57,58202,Bachelor,Rural,692,1
+Male,59,95552,High School,Urban,543,1
+Male,32,76142,High School,Suburban,531,0
+Male,54,91692,Bachelor,Urban,491,1
+Male,45,112384,PhD,Urban,839,1
+Male,44,50855,Master,Suburban,569,1
+Male,36,113747,Bachelor,Urban,376,1
+Male,48,90372,Bachelor,Urban,466,0
+Male,32,55095,Bachelor,Rural,583,1
+Female,38,51819,Master,Urban,388,1
+Female,35,67779,Master,Urban,843,1
+Female,48,85584,Bachelor,Urban,455,0
+Female,39,39950,Master,Urban,549,1
+Male,49,45972,Bachelor,Suburban,394,1
+Male,25,52927,PhD,Suburban,316,0
+Male,28,96630,PhD,Urban,416,1
+Female,56,34292,Master,Urban,632,0
+Female,30,23052,Master,Urban,821,1
+Male,29,116210,High School,Suburban,379,1
+Male,38,99518,Master,Urban,731,1
+Male,38,75283,Bachelor,Urban,502,1
+Male,54,111326,High School,Rural,415,0
+Female,53,50461,Bachelor,Suburban,519,1
+Female,29,40750,Master,Urban,552,0
+Male,40,42748,High School,Urban,468,1
+Female,59,89263,Bachelor,Urban,615,1
+Female,24,77602,Bachelor,Urban,671,1
+Male,26,83311,High School,Rural,455,1
+Male,34,52692,High School,Rural,312,0
+Male,52,53862,Master,Rural,807,1
+Male,37,109507,Master,Urban,764,1
+Male,53,110152,High School,Urban,519,0
+Male,43,100469,Master,Urban,314,0
+Male,50,34926,Master,Urban,416,0
+Male,43,33969,Bachelor,Suburban,630,0
+Female,64,23749,Master,Urban,355,1
+Male,24,99855,PhD,Urban,650,1
+Male,31,71743,Bachelor,Urban,431,0
+Male,63,69876,High School,Urban,525,0
+Female,42,31437,PhD,Urban,607,0
+Male,37,46428,Bachelor,Suburban,774,1
+Male,33,64578,High School,Urban,521,0
+Female,23,24551,Bachelor,Rural,472,0
+Female,62,88359,Bachelor,Urban,639,1
+Female,45,74880,Master,Urban,805,1
+Male,56,36364,Bachelor,Suburban,456,0
+Male,51,65349,High School,Urban,450,1
+Female,51,67636,Bachelor,Rural,477,0
+Female,56,49685,Bachelor,Urban,832,0
+Female,40,71134,High School,Rural,411,0
+Female,29,87847,Bachelor,Suburban,437,1
+Male,47,109762,Master,Suburban,532,0
+Female,61,64333,High School,Suburban,631,0
+Male,28,118302,Bachelor,Rural,841,1
+Male,51,93928,Bachelor,Urban,606,1
+Male,28,113231,High School,Rural,460,0
+Male,24,71347,Bachelor,Rural,701,0
+Male,22,33121,Bachelor,Urban,577,0
+Male,57,113793,Master,Urban,619,1
+Female,46,50492,High School,Suburban,832,0
+Male,58,55491,Master,Urban,796,1
+Female,22,44143,High School,Urban,662,0
+Male,36,53165,PhD,Suburban,671,1
+Male,58,33748,Bachelor,Urban,335,1
+Male,34,56553,Master,Urban,602,1
+Male,61,90380,High School,Rural,737,1
+Male,29,74331,Bachelor,Urban,331,0
+Male,26,69560,High School,Rural,485,1
+Male,30,83865,PhD,Urban,473,1
+Female,22,68632,Bachelor,Urban,549,0
+Male,57,105910,Bachelor,Urban,578,1
+Female,56,23320,Master,Suburban,301,1
+Male,23,96706,Bachelor,Urban,493,0
+Female,61,73463,Master,Urban,465,1
+Female,44,46572,Bachelor,Urban,409,0
+Female,30,37948,Master,Urban,679,1
+Male,55,84460,Bachelor,Urban,584,1
+Male,35,76418,Bachelor,Urban,720,1
+Male,25,56206,High School,Rural,412,0
+Female,51,86262,Master,Urban,527,1
+Female,52,64678,Bachelor,Suburban,770,0
+Female,59,32963,Bachelor,Rural,827,0
+Male,32,31161,PhD,Urban,795,1
+Female,56,69434,High School,Urban,330,1
+Female,29,86617,Master,Rural,461,1
+Male,24,119389,PhD,Rural,677,1
+Male,35,44758,Master,Urban,745,1
+Female,34,85602,Master,Suburban,726,1
+Female,53,53332,Bachelor,Urban,803,1
+Female,55,89206,High School,Urban,826,1
+Male,40,32176,Master,Urban,831,1
+Female,59,65717,Bachelor,Suburban,819,0
+Male,37,56627,High School,Rural,333,1
+Male,23,82550,Master,Suburban,789,1
+Male,61,74910,Bachelor,Urban,722,1
+Female,38,43104,PhD,Urban,767,1
+Female,55,32224,Master,Urban,323,0
+Male,63,41984,Master,Suburban,515,1
+Male,37,119312,Master,Urban,354,1
+Female,59,49299,Master,Urban,325,0
+Male,23,113291,Master,Urban,580,1
+Female,23,43350,Bachelor,Suburban,626,0
+Male,47,30320,High School,Urban,485,1
+Male,34,51684,Master,Urban,794,1
+Male,52,85913,Master,Urban,311,0
+Male,55,118774,Bachelor,Suburban,733,1
+Female,60,79840,High School,Suburban,507,1
+Male,24,78899,Bachelor,Rural,432,1
+Male,29,40770,High School,Urban,638,0
+Female,44,40002,PhD,Urban,495,0
+Male,35,115962,PhD,Suburban,561,0
+Male,48,71777,High School,Urban,581,1
+Female,50,69103,Bachelor,Urban,668,1
+Female,60,48647,High School,Urban,402,0
+Male,60,70130,Master,Suburban,482,1
+Female,22,86830,Bachelor,Urban,722,0
+Female,38,56833,Bachelor,Rural,308,1
+Male,62,32537,Bachelor,Suburban,543,1
+Male,51,114762,High School,Urban,692,1
+Female,34,70755,Bachelor,Urban,826,0
+Female,42,37706,High School,Suburban,336,0
+Male,40,33009,Bachelor,Suburban,477,0
+Female,40,84994,High School,Suburban,371,1
+Female,46,83884,Bachelor,Rural,651,0
+Male,43,44209,Master,Urban,448,0
+Male,52,78443,Master,Suburban,404,0
+Male,38,45029,Master,Urban,520,0
+Female,44,61256,PhD,Suburban,673,0
+Male,53,109443,High School,Suburban,817,1
+Female,31,66118,High School,Rural,559,0
+Female,31,48930,Bachelor,Suburban,598,0
+Female,57,31801,Master,Suburban,341,0
+Male,29,100409,PhD,Urban,791,1
+Female,41,36559,High School,Rural,738,0
+Male,53,63065,Bachelor,Urban,346,1
+Female,35,33288,High School,Rural,384,0
+Male,49,64152,Master,Urban,357,1
+Male,45,88741,Bachelor,Urban,508,0
+Female,36,38051,High School,Suburban,547,0
+Male,43,59092,Bachelor,Suburban,510,0
+Male,51,47653,Bachelor,Urban,338,0
+Female,25,85140,Master,Rural,551,1
+Female,34,45251,High School,Rural,712,0
+Female,44,70975,Master,Suburban,745,1
+Female,29,25147,Bachelor,Urban,351,0
+Male,39,117592,Master,Rural,673,1
+Male,33,73169,Master,Suburban,825,1
+Male,52,78287,High School,Urban,455,1
+Male,35,84745,High School,Suburban,841,1
+Female,55,60733,Master,Suburban,389,1
+Female,39,54808,High School,Suburban,650,1
+Male,55,51067,Master,Urban,368,1
+Male,32,81033,Master,Urban,462,1
+Female,62,21849,Master,Suburban,541,0
+Male,33,99345,High School,Urban,794,1
+Female,36,87136,Bachelor,Rural,682,0
+Male,52,116803,Bachelor,Urban,351,1
+Female,50,64565,High School,Urban,362,0
+Male,47,116593,Master,Urban,808,1
+Female,39,21132,Master,Rural,591,0
+Female,53,58259,Bachelor,Urban,390,0
+Female,43,83668,Master,Rural,723,1
+Female,59,58563,High School,Rural,664,0
+Female,38,30931,Bachelor,Rural,449,0
+Female,44,70639,PhD,Rural,570,1
+Male,45,56270,PhD,Urban,415,1
+Female,29,21044,Bachelor,Urban,815,0
+Female,62,66691,PhD,Urban,540,1
+Male,27,37452,Bachelor,Rural,329,0
+Female,26,66694,High School,Rural,442,1
+Female,50,21582,High School,Urban,625,0
+Female,49,86844,PhD,Urban,315,0
+Male,32,61899,High School,Rural,410,1
+Male,22,62083,Bachelor,Urban,406,1
+Female,64,82224,Bachelor,Suburban,678,1
+Female,40,76655,Master,Urban,461,1
+Male,30,49053,Bachelor,Suburban,582,0
+Female,48,59390,High School,Urban,568,0
+Female,55,75856,High School,Urban,783,1
+Male,25,119745,Bachelor,Urban,372,1
+Female,57,75809,Master,Urban,496,1
+Male,39,99517,Bachelor,Urban,542,1
+Male,36,51153,Master,Urban,558,0
+Male,34,35247,High School,Rural,448,0
+Female,40,51629,Master,Urban,689,1
+Male,27,50811,Bachelor,Suburban,715,1
+Male,33,36135,High School,Urban,725,0
+Male,58,35573,Bachelor,Suburban,516,0
+Male,38,109267,Master,Rural,385,1
+Female,44,26073,Master,Urban,515,0
+Male,47,110077,High School,Urban,722,1
+Male,50,73646,Master,Urban,619,1
+Female,54,37138,High School,Urban,417,0
+Male,48,83687,High School,Rural,714,0
+Male,46,98312,Bachelor,Rural,339,1
+Male,31,57564,Bachelor,Suburban,460,1
+Male,44,58835,Master,Rural,836,1
+Male,42,91587,Bachelor,Suburban,719,0
+Male,42,37697,High School,Suburban,394,0
+Male,64,110165,Bachelor,Suburban,741,1
+Female,34,48036,High School,Urban,765,0
+Male,58,47046,High School,Urban,587,1
+Female,54,88681,Bachelor,Urban,711,1
+Female,45,47818,Bachelor,Rural,699,0
+Male,32,83370,High School,Urban,827,1
+Female,38,82532,Bachelor,Urban,317,1
+Male,25,35060,High School,Urban,435,0
+Female,46,40104,High School,Urban,763,0
+Male,51,90519,Bachelor,Rural,547,1
+Male,30,101117,High School,Urban,300,1
+Male,42,91158,Bachelor,Rural,680,1
+Female,41,51416,High School,Suburban,808,1
+Male,40,115709,Bachelor,Urban,759,1
+Female,40,88045,High School,Rural,804,0
+Male,33,88255,High School,Suburban,775,1
+Female,58,68270,Bachelor,Urban,331,1
+Male,63,86918,PhD,Urban,417,1
+Female,38,83644,High School,Urban,483,1
+Male,58,109558,Bachelor,Rural,490,1
+Male,60,115549,Master,Rural,373,1
+Male,49,111422,Bachelor,Urban,402,1
+Male,62,55256,Master,Urban,719,1
+Female,56,56784,High School,Urban,772,1
+Male,39,36638,PhD,Suburban,413,1
+Female,35,80646,Bachelor,Urban,678,1
+Male,56,63377,Bachelor,Suburban,612,0
+Male,62,73116,Master,Urban,629,1
+Male,28,66634,Bachelor,Rural,638,1
+Male,62,112291,Bachelor,Rural,537,1
+Female,34,40541,Master,Rural,472,0
+Male,39,86063,Bachelor,Urban,378,1
+Male,58,52394,High School,Suburban,763,1
+Female,34,49545,Bachelor,Urban,800,1
+Female,57,51673,High School,Urban,584,1
+Male,52,70222,Master,Rural,522,1
+Male,23,43666,PhD,Suburban,565,1
+Female,37,43097,Bachelor,Rural,672,0
+Male,30,111845,Bachelor,Urban,532,1
+Male,30,99590,High School,Rural,535,1
+Male,59,96471,High School,Rural,613,1
+Female,32,35043,PhD,Suburban,679,0
+Female,43,61846,High School,Suburban,719,1
+Male,54,93108,Bachelor,Rural,351,0
+Male,57,78924,Master,Urban,808,0
+Male,44,46709,Master,Suburban,504,1
+Female,55,49483,Bachelor,Rural,556,0
+Male,30,90824,Bachelor,Suburban,484,1
+Male,45,70542,Bachelor,Urban,444,0
+Female,29,35733,PhD,Urban,313,0
+Male,28,64753,Bachelor,Urban,545,0
+Female,57,29247,Bachelor,Rural,486,0
+Male,39,51316,High School,Suburban,636,1
+Male,24,114698,High School,Urban,558,1
+Male,49,45960,Bachelor,Rural,339,0
+Female,27,54929,PhD,Rural,717,1
+Female,42,51362,Master,Rural,650,1
+Female,49,67356,PhD,Urban,308,1
+Male,61,94427,Bachelor,Suburban,649,0
+Female,22,81954,Master,Urban,383,1
+Male,57,103290,Master,Suburban,832,1
+Male,42,77014,Bachelor,Urban,657,1
+Female,64,64722,Bachelor,Urban,677,0
+Male,56,108389,Bachelor,Suburban,471,0
+Male,34,80519,Master,Urban,324,1
+Male,31,34042,High School,Urban,692,1
+Male,31,79052,PhD,Rural,402,1
+Male,34,44389,High School,Rural,535,1
+Female,58,50337,Master,Rural,709,1
+Male,59,80733,Bachelor,Urban,848,1
+Female,45,44309,Master,Urban,631,0
+Female,23,86344,Bachelor,Urban,831,1
+Male,43,115886,PhD,Urban,328,1
+Male,38,56681,Bachelor,Suburban,842,1
+Male,57,119524,High School,Urban,318,1
+Female,35,70281,Bachelor,Urban,447,0
+Male,31,54704,High School,Urban,770,1
+Female,56,23895,High School,Urban,790,0
+Male,46,99639,Bachelor,Rural,582,0
+Female,24,62968,Master,Rural,412,1
+Male,59,32994,Bachelor,Urban,754,0
+Male,38,99280,Bachelor,Urban,629,1
+Female,33,34621,Bachelor,Urban,554,0
+Female,45,38174,High School,Suburban,698,0
+Male,50,35594,PhD,Rural,807,0
+Female,64,56674,Bachelor,Urban,765,1
+Male,46,77315,PhD,Urban,706,1
+Female,57,62498,High School,Rural,397,1
+Female,47,87609,High School,Suburban,589,1
+Male,59,46626,Master,Suburban,455,0
+Male,22,116005,Bachelor,Urban,461,1
+Male,41,37130,High School,Urban,396,0
+Male,49,36828,High School,Urban,676,0
+Female,37,46811,Master,Suburban,749,0
+Male,38,82664,Bachelor,Suburban,416,1
+Male,61,47883,Bachelor,Urban,805,0
+Female,49,22147,Bachelor,Urban,488,0
+Female,33,58445,Bachelor,Urban,775,0
+Male,48,72932,PhD,Urban,622,1
+Male,63,91269,High School,Urban,479,0
+Male,51,105986,Bachelor,Rural,480,1
+Male,62,115959,Master,Urban,586,1
+Female,55,57755,High School,Urban,774,0
+Male,58,70745,Bachelor,Rural,561,1
+Female,27,29479,Bachelor,Urban,822,0
+Male,28,82975,Bachelor,Urban,461,1
+Female,53,55694,Bachelor,Urban,786,1
+Female,53,29490,Bachelor,Suburban,480,0
+Female,46,41252,Bachelor,Suburban,768,0
+Male,54,86396,Bachelor,Urban,320,0
+Male,28,43331,Bachelor,Rural,574,1
+Male,33,93927,High School,Urban,559,0
+Female,37,76022,Bachelor,Rural,632,1
+Female,37,81991,PhD,Rural,765,1
+Female,64,60927,Bachelor,Suburban,415,1
+Female,57,69853,Master,Urban,712,0
+Female,34,51826,Bachelor,Suburban,836,0
+Male,28,84478,Master,Suburban,556,1
+Female,57,77265,PhD,Suburban,467,1
+Male,30,85734,High School,Rural,832,1
+Male,53,58621,Bachelor,Urban,314,1
+Male,32,106441,Bachelor,Urban,349,1
+Male,29,76121,Bachelor,Urban,603,1
+Male,54,111418,High School,Urban,786,0
+Female,44,41575,Master,Rural,715,0
+Male,46,114577,High School,Rural,604,1
+Female,29,30100,Bachelor,Suburban,495,0
+Male,43,34837,Bachelor,Urban,687,0
+Male,25,113163,High School,Urban,754,1
+Male,61,101232,PhD,Suburban,609,1
+Male,24,78994,Master,Urban,426,1
+Female,50,55790,Bachelor,Urban,474,0
+Male,62,42615,Bachelor,Suburban,433,0
+Female,50,58506,High School,Suburban,365,1
+Male,55,60771,Master,Urban,692,1
+Female,55,32305,High School,Suburban,664,0
+Female,49,29969,Bachelor,Rural,578,0
+Female,34,32404,Master,Suburban,662,1
+Male,36,118422,High School,Suburban,470,1
+Male,44,90739,Master,Urban,350,0
+Male,47,103369,High School,Rural,627,0
+Female,25,59462,PhD,Urban,444,0
+Male,47,60573,High School,Urban,573,0
+Male,61,70874,Bachelor,Suburban,454,1
+Female,30,85472,High School,Rural,807,1
+Male,26,117460,Master,Rural,662,1
+Female,53,54160,Bachelor,Suburban,624,1
+Male,41,51199,High School,Suburban,597,0
+Male,32,104328,Bachelor,Suburban,793,0
+Female,36,34385,Bachelor,Urban,845,0
+Male,53,116133,Bachelor,Urban,603,1
+Female,49,64247,Master,Urban,766,0
+Male,43,45989,Bachelor,Urban,538,0
+Male,62,58931,High School,Urban,816,1
+Female,38,83248,High School,Rural,475,0
+Female,47,54550,Bachelor,Rural,709,1
+Female,28,73693,Bachelor,Suburban,663,1
+Male,63,109481,Bachelor,Rural,322,0
+Female,47,35605,High School,Rural,617,0
+Male,46,60133,Bachelor,Urban,824,1
+Male,31,57052,PhD,Urban,575,1
+Female,40,78466,High School,Urban,528,0
+Male,32,70475,Bachelor,Suburban,407,0
+Female,34,29493,Master,Urban,475,0
+Male,29,87656,Master,Rural,619,1
+Male,61,34633,Bachelor,Rural,585,1
+Male,25,47304,Bachelor,Urban,628,1
+Female,52,69402,Master,Urban,655,1
+Female,49,85614,High School,Urban,313,1
+Female,32,55891,Bachelor,Urban,574,1
+Female,64,59832,High School,Suburban,370,0
+Female,22,65836,Bachelor,Rural,494,1
+Female,59,33362,Bachelor,Rural,822,0
+Male,45,63040,Master,Suburban,405,1
+Male,52,90354,High School,Rural,495,1
+Male,62,108543,Bachelor,Suburban,444,1
+Female,47,84510,Bachelor,Urban,649,0
+Female,26,27610,Bachelor,Rural,723,1
+Male,41,65932,Master,Urban,770,0
+Female,62,78047,Bachelor,Urban,515,0
+Female,32,87906,PhD,Urban,392,1
+Male,54,44327,Bachelor,Rural,559,1
+Female,59,85864,Bachelor,Urban,840,0
+Female,48,66451,Master,Urban,584,0
+Male,55,57241,High School,Suburban,783,1
+Female,36,26794,High School,Suburban,671,0
+Male,53,102255,Master,Rural,369,0
+Female,42,26749,Bachelor,Suburban,678,0
+Female,26,66531,Master,Suburban,578,0
+Female,27,40608,PhD,Rural,601,0
+Male,59,91861,Bachelor,Urban,554,0
+Female,43,76017,Bachelor,Suburban,563,0
+Female,39,77676,Bachelor,Rural,723,0
+Male,35,86809,Bachelor,Urban,512,0
+Female,31,74401,Master,Urban,399,1
+Male,34,58369,Master,Urban,411,0
+Female,52,52463,Bachelor,Suburban,607,1
+Male,51,47576,High School,Urban,774,1
+Male,24,59001,Bachelor,Suburban,847,1
+Male,51,113384,High School,Suburban,411,1
+Female,27,53123,Master,Rural,386,1
+Male,50,117535,High School,Rural,482,0
+Female,29,82637,Master,Urban,464,1
+Male,64,41569,Bachelor,Urban,389,0
+Male,54,43029,Master,Urban,754,0
+Male,38,52490,Bachelor,Suburban,537,1
+Female,32,37397,Bachelor,Urban,833,1
+Male,34,35867,Bachelor,Urban,357,0
+Female,32,67657,Master,Urban,841,1
+Female,52,87560,Bachelor,Suburban,701,0
+Female,49,33503,Bachelor,Urban,818,0
+Male,27,47027,Bachelor,Suburban,496,0
+Male,62,104229,High School,Urban,345,1
+Female,37,70390,Bachelor,Rural,829,0
+Male,25,80435,PhD,Urban,696,1
+Female,56,85054,High School,Rural,373,0
+Male,47,93965,Bachelor,Rural,715,1
+Female,33,60167,Bachelor,Urban,634,0
+Female,32,27961,Bachelor,Rural,595,0
+Female,58,46140,High School,Rural,383,0
+Male,46,38947,Bachelor,Rural,314,1
+Female,39,48561,High School,Suburban,433,0
+Male,40,91816,High School,Urban,777,1
+Male,44,78785,Master,Rural,618,1
+Female,59,57146,Bachelor,Suburban,691,1
+Female,39,60297,PhD,Suburban,778,0
+Female,47,88607,High School,Suburban,667,1
+Female,27,36939,Bachelor,Urban,666,0
+Male,25,104286,High School,Suburban,587,1
+Male,50,46122,Bachelor,Rural,677,0
+Female,55,86576,PhD,Urban,762,1
+Male,38,60979,Master,Suburban,312,1
+Male,64,116436,High School,Rural,835,1
+Male,64,109376,Bachelor,Urban,467,0
+Male,37,82774,Bachelor,Urban,569,1
+Male,23,35037,High School,Suburban,369,1
+Male,55,58633,High School,Urban,617,1
+Male,29,54495,PhD,Urban,675,1
+Male,34,94550,PhD,Urban,388,1
+Female,63,80663,PhD,Urban,556,1
+Male,29,66483,Master,Suburban,516,1
+Male,51,103373,Bachelor,Urban,749,1
+Female,53,55030,Bachelor,Rural,843,1
+Male,57,37370,High School,Suburban,440,1
+Female,51,25188,High School,Rural,460,0
+Female,22,49680,Bachelor,Urban,331,0
+Male,64,30692,Master,Suburban,451,1
+Male,60,58926,Master,Urban,559,1
+Female,38,56445,PhD,Urban,578,0
+Female,41,25796,Master,Rural,584,0
+Male,45,79593,PhD,Suburban,841,1
+Female,43,59131,High School,Suburban,447,0
+Male,50,35209,Master,Suburban,366,0
+Female,43,28222,Bachelor,Suburban,578,0
+Male,30,116597,High School,Suburban,742,0
+Female,58,49825,PhD,Suburban,698,1
+Female,31,56839,Master,Urban,427,1
+Female,57,88322,High School,Urban,636,1
+Male,58,54594,High School,Rural,781,1
+Male,49,104852,Bachelor,Rural,485,1
+Male,49,107713,Bachelor,Urban,468,1
+Male,63,106382,PhD,Urban,559,1
+Male,64,37933,High School,Urban,806,0
+Female,42,37043,High School,Rural,820,0
+Male,45,95449,High School,Suburban,770,1
+Male,63,97616,High School,Suburban,460,1
+Female,61,62616,High School,Suburban,588,0
+Female,23,72127,PhD,Suburban,639,0
+Female,29,20453,Bachelor,Urban,801,1
+Female,48,30976,Bachelor,Urban,405,0
+Male,43,80013,High School,Urban,774,0
+Male,58,38346,High School,Rural,762,1
+Female,48,27957,Master,Urban,782,0
+Female,50,24792,Bachelor,Rural,452,0
+Male,24,47653,Master,Rural,448,1
+Female,34,33237,Bachelor,Urban,487,0
+Male,31,56140,Bachelor,Suburban,430,1
+Male,57,31184,Bachelor,Rural,751,0
+Male,30,64493,Bachelor,Urban,815,0
+Female,48,54206,Master,Urban,790,1
+Female,55,23543,High School,Rural,775,0
+Male,22,52195,Bachelor,Urban,562,0
+Female,53,55031,High School,Urban,837,1
+Male,46,33956,Bachelor,Rural,758,0
+Male,50,46555,PhD,Suburban,835,1
+Female,28,77851,Bachelor,Urban,594,0
+Female,24,75311,Bachelor,Suburban,734,1
+Female,41,85867,PhD,Suburban,574,0
+Female,41,77196,Bachelor,Urban,607,0
+Female,51,77894,High School,Rural,675,1
+Female,56,34591,High School,Urban,457,1
+Male,56,111502,Master,Urban,503,1
+Male,60,111418,Master,Rural,374,1
+Male,48,100211,Bachelor,Rural,679,0
+Male,47,71850,Bachelor,Urban,603,0
+Female,35,30929,PhD,Suburban,361,0
+Male,38,57843,High School,Suburban,407,1
+Male,39,92320,Bachelor,Suburban,486,0
+Male,50,59793,High School,Urban,528,1
+Female,41,54318,Master,Suburban,347,1
+Male,48,47857,High School,Urban,567,0
+Female,39,48840,Bachelor,Urban,553,0
+Male,25,91822,High School,Suburban,386,1
+Male,22,114101,Bachelor,Rural,480,1
+Female,22,40625,Master,Rural,324,0
+Female,47,49187,Bachelor,Urban,687,0
+Male,41,74116,Bachelor,Urban,521,0
+Female,44,81892,Bachelor,Rural,696,1
+Female,31,40539,Bachelor,Urban,810,0
+Male,32,58557,Master,Rural,739,1
+Female,62,29215,High School,Urban,474,0
+Female,62,59385,Master,Suburban,610,0
+Female,26,45008,High School,Rural,573,0
+Female,22,68928,High School,Rural,334,0
+Female,38,44976,Bachelor,Suburban,516,0
+Female,43,47626,Bachelor,Rural,707,0
+Female,55,79789,Bachelor,Urban,818,0
+Female,62,24700,Master,Urban,568,0
+Female,50,83645,High School,Rural,774,0
+Female,25,27526,High School,Urban,624,0
+Female,26,59500,Master,Rural,655,1
+Male,32,107606,Master,Urban,389,0
+Female,42,79117,High School,Urban,341,1
+Female,56,76096,Bachelor,Rural,664,0
+Male,33,56478,Bachelor,Suburban,501,1
+Female,47,70248,Master,Rural,665,0
+Male,40,76418,Master,Suburban,587,1
+Male,28,92217,Master,Suburban,780,1
+Female,28,61954,Master,Urban,800,0
+Male,47,103762,High School,Urban,351,1
+Female,61,20595,Master,Suburban,402,0
+Female,26,49592,Bachelor,Suburban,660,0
+Male,42,66133,High School,Rural,723,0
+Male,35,112508,Bachelor,Suburban,504,0
+Male,25,106946,PhD,Urban,313,1
+Female,44,25972,Master,Urban,769,1
+Female,63,35882,High School,Rural,765,1
+Female,41,86394,Master,Urban,603,1
+Male,36,50470,Master,Urban,726,1
+Female,50,45020,High School,Urban,409,0
+Male,29,38531,Bachelor,Urban,814,1
+Female,62,64912,Master,Rural,367,1
+Male,40,117939,Bachelor,Suburban,545,1
+Female,60,53798,High School,Suburban,688,0
+Male,49,112476,Master,Rural,607,1
+Female,48,86983,PhD,Urban,651,1
+Male,25,87174,Bachelor,Rural,365,0
+Female,36,22850,Master,Urban,759,1
+Female,56,48400,Bachelor,Urban,646,0
+Male,58,90610,High School,Urban,624,0
+Female,22,43535,Bachelor,Suburban,332,0
+Female,24,24055,Bachelor,Suburban,367,0
+Male,45,102013,Master,Rural,486,0
+Male,48,86652,High School,Rural,491,1
+Female,61,24532,Bachelor,Urban,512,0
+Male,57,112936,Bachelor,Rural,727,1
+Female,55,68037,PhD,Rural,650,1
+Male,50,97598,High School,Urban,407,1
+Female,45,35385,High School,Urban,539,0
+Male,45,83473,High School,Suburban,515,1
+Female,63,85421,Master,Rural,476,0
+Female,25,51225,High School,Suburban,629,1
+Female,24,56021,High School,Suburban,749,1
+Female,55,23782,High School,Suburban,746,0
+Male,44,105242,Master,Urban,836,1
+Female,44,62719,High School,Urban,478,0
+Male,26,39837,Bachelor,Urban,694,0
+Male,52,82151,High School,Urban,444,0
+Male,62,66824,Bachelor,Rural,497,0
+Male,27,63073,Master,Rural,383,0
+Female,58,54840,Bachelor,Rural,384,0
+Female,31,51007,PhD,Urban,756,1
+Male,61,60063,PhD,Suburban,775,1
+Male,28,99453,Bachelor,Urban,552,1
+Female,60,77480,Master,Urban,371,1
+Male,59,44506,Master,Rural,522,1
+Male,42,109854,Master,Suburban,575,1
+Male,41,56026,Bachelor,Urban,545,0
+Female,24,62942,Bachelor,Urban,640,1
+Female,43,36138,Bachelor,Rural,770,0
+Male,25,82413,Master,Urban,753,1
+Male,49,95066,High School,Urban,306,0
+Female,33,75698,High School,Rural,487,0
+Female,59,49086,Bachelor,Urban,303,0
+Male,57,57281,High School,Urban,424,1
+Female,62,23435,Bachelor,Urban,314,0
+Male,26,80494,High School,Suburban,824,1
+Male,34,48610,Bachelor,Suburban,539,0
+Female,44,79635,PhD,Urban,659,0
+Male,51,76751,Bachelor,Urban,817,0
+Female,58,77557,Master,Urban,619,1
+Male,46,85432,High School,Urban,530,1
+Male,48,60951,High School,Rural,329,1
+Female,35,52826,Master,Rural,833,1
+Male,57,108291,Master,Urban,455,1
+Female,60,63890,Bachelor,Urban,698,1
+Male,37,37235,PhD,Urban,645,0
+Male,43,112733,PhD,Urban,494,1
+Male,42,92712,PhD,Urban,467,1
+Female,42,28314,Bachelor,Rural,676,0
+Male,29,97567,High School,Rural,788,1
+Female,37,35357,Bachelor,Rural,661,1
+Male,52,62230,Bachelor,Urban,781,1
+Female,63,59029,High School,Rural,543,1
+Male,31,98876,Master,Urban,470,1
+Female,53,47499,High School,Urban,812,1
+Female,55,66157,Bachelor,Rural,705,0
+Female,30,76247,Bachelor,Urban,506,1
+Female,38,61034,Master,Rural,453,1
+Female,32,20294,Bachelor,Rural,347,0
+Female,53,44596,Master,Suburban,300,0
+Male,31,115961,Bachelor,Suburban,706,0
+Male,43,99806,Master,Urban,406,1
+Female,38,58098,PhD,Suburban,472,1
+Female,25,24655,Bachelor,Rural,805,0
+Female,46,66228,PhD,Rural,429,1
+Male,42,69884,High School,Urban,697,1
+Male,58,99322,Bachelor,Suburban,593,0
+Male,59,51650,High School,Urban,746,1
+Female,22,37558,High School,Suburban,315,0
+Male,46,68196,Master,Urban,648,0
+Male,57,69449,High School,Rural,502,1
+Male,38,69661,Bachelor,Urban,433,1
+Male,62,59709,Bachelor,Urban,825,1
+Female,45,71952,Bachelor,Urban,807,0
+Male,23,105179,Bachelor,Urban,365,0
+Female,61,47472,Master,Urban,779,0
+Male,36,73240,High School,Urban,758,1
+Male,53,75760,Bachelor,Rural,641,0
+Male,60,51042,Bachelor,Suburban,458,1
+Male,27,73894,Bachelor,Rural,460,1
+Male,22,36869,Bachelor,Urban,553,0
+Male,44,91078,Master,Urban,826,1
+Female,60,20769,Bachelor,Urban,848,0
+Male,38,74306,Bachelor,Suburban,454,1
+Female,55,22972,High School,Suburban,785,0
+Female,62,38256,Bachelor,Urban,731,0
+Female,50,38653,Master,Urban,326,0
+Male,30,113232,High School,Suburban,311,1
+Male,34,32962,Bachelor,Suburban,366,0
+Male,27,43851,Master,Suburban,841,1
+Male,27,75747,Bachelor,Suburban,395,0
+Female,41,34706,High School,Urban,514,1
+Male,24,100832,Bachelor,Urban,493,1
+Male,38,86356,High School,Urban,589,1
+Female,33,77572,Master,Urban,843,1
+Female,22,83767,High School,Urban,338,0
+Female,38,46469,Master,Rural,505,0
+Male,24,101138,Bachelor,Urban,783,1
+Male,47,113111,Master,Urban,636,1
+Male,36,49023,High School,Urban,795,0
+Male,57,75349,Bachelor,Urban,548,1
+Male,53,111533,Bachelor,Urban,373,1
+Male,53,113286,Bachelor,Suburban,672,1
+Male,25,71979,Bachelor,Suburban,437,1
+Male,39,52837,Master,Urban,756,1
+Male,40,44997,PhD,Rural,743,1
+Female,64,41323,High School,Urban,652,0
+Female,56,86922,High School,Rural,710,1
+Female,61,73915,Master,Urban,837,1
+Male,35,38876,High School,Urban,752,1
+Male,54,90973,PhD,Suburban,718,1
+Male,35,32887,Bachelor,Urban,749,1
+Female,55,46739,Bachelor,Urban,414,0
+Female,25,67708,High School,Urban,350,1
+Male,45,81413,High School,Urban,668,1
+Female,50,27373,Bachelor,Urban,814,0
+Male,40,58756,PhD,Suburban,509,1
+Male,27,101576,PhD,Rural,734,1
+Female,54,87863,High School,Rural,526,1
+Female,61,59220,High School,Urban,567,0
+Female,40,27642,High School,Urban,415,0
+Female,22,75556,Master,Urban,659,1
+Male,26,90758,High School,Urban,628,1
+Female,48,58192,High School,Rural,339,0
+Male,37,79002,High School,Urban,481,0
+Female,27,39558,Bachelor,Suburban,789,0
+Male,61,52092,PhD,Urban,508,1
+Female,34,24782,Bachelor,Urban,572,0
+Male,56,33729,High School,Urban,418,0
+Female,40,39462,Bachelor,Urban,681,0
+Male,33,115216,Bachelor,Urban,835,0
+Female,37,88519,High School,Urban,557,1
+Male,64,51398,High School,Urban,782,0
+Male,31,64650,Bachelor,Rural,808,1
+Male,46,51292,High School,Rural,391,0
+Male,41,33159,High School,Urban,460,1
+Female,52,80926,Bachelor,Urban,448,1
+Male,25,47065,Master,Rural,416,0
+Female,44,35089,Bachelor,Suburban,757,0
+Male,23,31073,Bachelor,Rural,344,0
+Male,43,76511,Bachelor,Urban,533,1
+Female,58,25609,Bachelor,Rural,674,0
+Female,29,71153,High School,Rural,846,1
+Male,28,99876,PhD,Urban,496,1
+Female,35,64143,High School,Suburban,324,1
+Female,24,42936,Bachelor,Urban,694,0
+Male,37,70734,Master,Suburban,335,0
+Female,40,33163,Bachelor,Rural,773,0
+Female,39,79758,PhD,Rural,522,1
+Female,37,66057,Bachelor,Rural,829,1
+Male,29,78940,Master,Urban,487,1
+Female,54,42419,Master,Rural,701,1
+Male,33,106976,PhD,Suburban,556,1
+Male,32,44678,PhD,Rural,435,0
+Male,26,91075,Master,Suburban,743,0
+Male,48,77204,Master,Suburban,717,1
+Female,33,29505,Bachelor,Suburban,591,0
+Female,38,22105,High School,Rural,428,0
+Female,27,88104,Bachelor,Rural,640,0
+Male,54,103755,PhD,Urban,556,1
+Male,26,53464,Master,Rural,399,1
+Male,49,81137,PhD,Urban,338,0
+Female,35,84280,Master,Urban,562,1
+Male,26,91497,High School,Urban,449,0
+Female,54,78703,High School,Suburban,629,0
+Female,62,83079,Bachelor,Suburban,419,0
+Male,40,114517,High School,Rural,518,1
+Female,43,21214,Bachelor,Urban,422,0
+Male,26,117980,PhD,Rural,543,1
+Female,23,83230,Master,Rural,817,1
+Female,51,52980,Bachelor,Urban,320,0
+Male,60,59863,High School,Urban,489,1
+Male,25,35622,Bachelor,Urban,524,0
+Female,54,65807,Bachelor,Rural,765,1
+Female,34,42301,Bachelor,Rural,398,0
+Male,41,101186,High School,Urban,662,1
+Female,28,33777,Bachelor,Suburban,382,0
+Female,36,58346,High School,Urban,355,0
+Female,44,74703,PhD,Urban,321,1
+Male,35,69255,High School,Urban,484,1
+Female,44,48469,High School,Urban,821,0
+Female,40,23845,High School,Urban,563,1
+Male,50,52499,Bachelor,Urban,524,0
+Male,41,81628,Bachelor,Rural,337,1
+Female,50,64252,Master,Urban,422,0
+Male,45,34603,Bachelor,Rural,455,0
+Female,39,77089,Bachelor,Rural,600,0
+Male,31,42632,Bachelor,Urban,366,0
+Male,62,60607,Bachelor,Suburban,693,0
+Female,29,36619,High School,Urban,704,0
+Male,47,76994,Bachelor,Suburban,748,0
+Male,50,93382,Master,Suburban,430,1
+Male,31,100354,Master,Urban,368,1
+Female,38,41630,Master,Suburban,644,1
+Male,23,83775,High School,Suburban,619,1
+Male,27,37349,High School,Suburban,476,0
+Female,26,67258,PhD,Rural,828,1
+Male,49,57464,High School,Urban,459,1
+Female,62,83722,High School,Suburban,832,0
+Male,26,67344,High School,Urban,434,1
+Female,39,77853,Bachelor,Urban,410,1
+Male,47,54299,High School,Urban,582,1
+Female,41,35111,Bachelor,Urban,819,0
+Male,62,31462,Bachelor,Rural,493,0
+Male,48,111441,PhD,Rural,346,1
+Male,33,111788,High School,Suburban,641,0
+Male,28,70581,Bachelor,Urban,541,1
+Male,24,101289,Bachelor,Suburban,821,1
+Male,31,44175,Bachelor,Suburban,669,0
+Female,55,38161,Bachelor,Urban,430,0
+Male,46,113434,Master,Urban,569,1
+Male,56,114518,High School,Suburban,360,1
+Female,37,55757,Master,Rural,463,1
+Female,23,61111,Bachelor,Suburban,824,1
+Male,45,77645,High School,Rural,571,0
+Male,31,53283,Master,Urban,432,1
+Male,59,116971,Bachelor,Urban,543,1
+Female,43,48906,High School,Rural,733,0
+Female,47,70477,High School,Urban,337,0
+Male,64,79630,High School,Rural,618,0
+Female,60,72021,Bachelor,Suburban,809,0
+Female,48,49092,High School,Rural,675,0
+Female,50,21242,High School,Suburban,773,0
+Female,59,21831,High School,Urban,358,1
+Male,41,101833,Master,Rural,798,1
+Male,48,88755,Master,Rural,517,1
+Male,62,57856,Master,Suburban,428,0
+Male,41,103870,High School,Rural,682,1
+Male,40,54162,PhD,Urban,687,1
+Female,41,71507,Bachelor,Suburban,384,0
+Male,56,37987,Master,Rural,809,1
+Male,23,92532,Bachelor,Urban,736,0
+Male,51,33332,Bachelor,Rural,592,0
+Female,55,84340,Master,Suburban,348,1
+Male,43,68990,High School,Rural,366,0
+Male,24,39873,Bachelor,Urban,428,1
+Male,27,112542,Master,Suburban,328,1
+Male,36,115761,Master,Suburban,642,0
+Female,48,29491,PhD,Rural,844,0
+Female,31,78759,Bachelor,Urban,418,0
+Male,30,35033,High School,Urban,432,1
+Female,54,20968,High School,Rural,626,0
+Female,53,20368,Bachelor,Suburban,484,0
+Female,27,55010,Bachelor,Urban,805,1
+Male,62,30066,High School,Urban,833,1
+Male,57,75246,High School,Urban,540,1
+Male,23,37533,Bachelor,Rural,815,0
+Female,50,50936,Master,Urban,464,1
+Male,25,100152,PhD,Urban,517,1
+Male,22,89658,Master,Urban,304,1
+Male,40,68498,Master,Rural,380,1
+Female,47,56390,Bachelor,Urban,546,0
+Male,46,119385,PhD,Urban,792,1
+Female,31,48365,Bachelor,Suburban,685,0
+Female,36,37207,Master,Urban,606,0
+Male,43,42940,PhD,Urban,842,1
+Female,42,76572,PhD,Suburban,306,1
+Male,43,86827,Bachelor,Urban,814,0
+Female,57,25534,High School,Rural,372,0
+Male,55,54648,High School,Urban,309,1
+Female,51,82147,High School,Suburban,421,1
+Female,46,56486,High School,Urban,812,0
+Female,49,85557,High School,Suburban,740,0
+Female,22,54268,Bachelor,Urban,337,0
+Male,25,72598,Bachelor,Urban,644,1
+Female,28,23641,Master,Suburban,637,0
+Female,30,52959,High School,Suburban,483,0
+Female,57,33306,Bachelor,Urban,366,0
+Male,40,47558,Master,Suburban,316,0
+Female,22,76326,Bachelor,Urban,682,1
+Female,31,41498,PhD,Rural,667,0
+Female,57,47197,High School,Urban,615,0
+Male,30,30178,High School,Rural,796,0
+Female,63,45032,Bachelor,Urban,644,1
+Male,53,47118,High School,Urban,772,1
+Female,53,61964,Bachelor,Urban,414,0
+Male,27,30798,Bachelor,Urban,399,1
+Female,59,74646,High School,Suburban,737,0
+Female,38,28536,High School,Suburban,644,0
+Male,31,32795,Bachelor,Suburban,648,1
+Female,48,65712,Bachelor,Urban,438,1
+Male,56,102833,Bachelor,Urban,623,1
+Female,42,70830,High School,Rural,601,1
+Female,46,37127,High School,Suburban,593,0
+Female,49,31539,High School,Urban,828,0
+Female,36,66761,High School,Suburban,591,0
+Female,25,66219,Master,Suburban,373,1
+Male,50,31605,High School,Suburban,783,0
+Male,30,107506,Master,Urban,315,1
+Female,48,48615,Master,Urban,825,0
+Female,47,27903,High School,Urban,635,0
+Female,40,48527,Bachelor,Rural,815,1
+Female,49,35629,PhD,Urban,426,1
+Male,38,45187,Master,Urban,817,1
+Female,64,46708,Bachelor,Suburban,428,0
+Male,62,100610,Master,Urban,810,1
+Male,63,69867,Master,Urban,722,1
+Male,41,30893,Bachelor,Rural,684,0
+Male,61,49773,Master,Rural,531,0
+Male,60,34239,Bachelor,Suburban,494,0
+Male,44,50863,Bachelor,Urban,364,0
+Female,53,88906,PhD,Rural,576,1
+Male,54,98968,Master,Rural,523,1
+Male,26,90430,Bachelor,Urban,577,1
+Male,64,31515,High School,Suburban,665,0
+Male,55,44605,Bachelor,Urban,815,0
+Male,61,86240,Master,Urban,514,0
+Male,32,35586,Bachelor,Urban,738,1
+Female,24,68113,PhD,Urban,727,1
+Female,54,28789,Master,Urban,695,1
+Female,32,52125,Bachelor,Suburban,508,1
+Male,37,117029,High School,Urban,800,1
+Male,39,50711,Bachelor,Suburban,762,1
+Female,51,67085,Bachelor,Rural,526,0
+Male,31,50039,Bachelor,Urban,674,1
+Male,39,66561,Bachelor,Urban,799,0
+Male,59,105483,Bachelor,Rural,392,1
+Male,40,111395,High School,Rural,759,0
+Male,57,118658,High School,Urban,620,0
+Male,34,31577,Bachelor,Urban,309,0
+Female,24,87067,High School,Suburban,602,1
+Male,31,63798,Bachelor,Urban,621,0
+Female,59,41360,Bachelor,Suburban,755,0
+Female,22,74847,Bachelor,Rural,577,1
+Female,48,58931,High School,Urban,837,1
+Female,29,75823,Master,Urban,692,1
+Female,63,58032,Bachelor,Urban,394,0
+Male,38,47297,Bachelor,Suburban,406,0
+Male,30,101894,Master,Urban,689,1
+Male,27,93772,High School,Urban,825,1
+Female,64,73413,Bachelor,Rural,370,0
+Female,46,46149,PhD,Urban,675,1
+Male,60,31462,Master,Urban,667,0
+Female,49,39787,PhD,Suburban,350,0
+Male,54,45511,Master,Urban,442,0
+Female,58,42606,High School,Suburban,718,0
+Male,30,78665,High School,Suburban,847,1
+Male,39,74414,Bachelor,Urban,799,1
+Male,42,111010,Bachelor,Urban,466,1
+Male,23,102573,High School,Urban,559,1
+Male,64,43386,Master,Rural,491,1
+Male,59,84460,Bachelor,Urban,501,1
+Female,61,40595,Bachelor,Suburban,484,0
+Male,57,53474,Master,Rural,457,1
+Male,64,51045,Master,Urban,398,0
+Female,58,46853,Bachelor,Rural,540,0
+Female,36,40661,Master,Urban,790,0
+Male,49,72771,Master,Suburban,501,1
+Male,39,82335,Bachelor,Rural,808,1
+Male,55,82949,High School,Urban,395,0
+Male,43,100714,High School,Urban,789,1
+Female,32,50815,Bachelor,Suburban,517,0
+Male,34,32716,Bachelor,Rural,826,0
+Male,25,46574,PhD,Suburban,572,1
+Female,43,78453,Master,Urban,518,0
+Male,28,103717,Master,Urban,631,1
+Female,64,75991,PhD,Urban,752,1
+Male,45,91826,Master,Rural,451,1
+Female,25,53349,Bachelor,Urban,646,0
+Male,49,101916,High School,Urban,713,0
+Female,36,20132,Master,Rural,826,0
+Female,22,71990,Bachelor,Rural,730,1
+Male,24,30463,Bachelor,Urban,678,0
+Female,35,56538,Bachelor,Urban,727,0
+Female,59,27213,PhD,Rural,383,1
+Female,22,64223,Bachelor,Urban,491,0
+Female,59,88371,Master,Urban,340,1
+Female,59,88274,High School,Urban,608,1
+Male,42,100474,Bachelor,Rural,677,1
+Male,50,68185,High School,Suburban,435,0
+Female,26,35690,Master,Urban,405,1
+Male,31,104417,High School,Urban,818,1
+Female,49,32062,Master,Suburban,841,1
+Female,42,54731,High School,Suburban,425,1
+Male,28,52504,High School,Rural,656,1
+Male,24,84970,Bachelor,Suburban,699,1
+Female,41,86425,Bachelor,Rural,378,0
+Male,40,41695,High School,Rural,688,0
+Female,56,48205,Bachelor,Urban,834,0
+Male,25,72543,Master,Urban,373,1
+Female,26,69112,Bachelor,Urban,304,1
+Male,22,63139,High School,Suburban,762,1
+Female,25,79010,Master,Suburban,381,0
+Male,33,103843,High School,Rural,836,1
+Female,48,21067,Bachelor,Urban,704,1
+Male,63,64159,High School,Urban,813,1
+Female,44,81597,Bachelor,Urban,577,0
+Female,46,68521,High School,Urban,523,0
+Male,42,59086,PhD,Rural,367,0
+Male,45,60480,Bachelor,Suburban,619,0
+Male,46,82091,High School,Urban,318,1
+Female,53,39563,High School,Urban,642,0
+Female,53,67322,Master,Rural,642,1
+Male,26,39265,Bachelor,Urban,396,1
+Male,57,100990,Master,Suburban,351,1
+Male,63,45386,PhD,Urban,474,1
+Female,63,87262,PhD,Urban,637,1
+Male,60,73254,Master,Urban,652,1
+Female,37,37221,High School,Urban,690,0
+Male,54,83634,Master,Rural,414,0
+Female,42,40968,High School,Urban,647,0
+Male,30,77662,Master,Urban,300,0
+Male,27,116988,Bachelor,Urban,362,1
+Female,56,69508,Master,Urban,525,1
+Female,60,61831,Bachelor,Urban,722,1
+Female,43,62933,Bachelor,Rural,318,1
+Male,62,45581,PhD,Rural,330,1
+Male,26,97443,High School,Suburban,323,0
+Female,63,63601,Bachelor,Urban,510,0
+Female,44,48754,Bachelor,Urban,460,1
+Male,38,71984,PhD,Urban,554,1
+Male,33,71505,High School,Urban,413,1
+Male,44,92699,High School,Rural,803,1
+Female,37,33201,High School,Suburban,519,0
+Male,24,55464,High School,Rural,656,1
+Male,51,53649,PhD,Urban,468,1
+Male,43,72065,Master,Urban,823,1
+Male,30,64758,Bachelor,Suburban,541,1
+Male,50,35596,Bachelor,Urban,674,1
+Male,58,46374,Master,Urban,438,1
+Male,44,33775,High School,Suburban,396,0
+Female,34,47785,Bachelor,Rural,446,0
+Male,53,51029,Bachelor,Rural,481,0
+Male,44,113981,High School,Urban,356,0
+Female,38,65591,Bachelor,Urban,341,0
+Female,61,81750,Bachelor,Urban,842,0
+Male,42,61105,High School,Rural,301,0
+Male,23,43668,High School,Urban,587,0
+Male,58,45960,Master,Suburban,437,1
+Female,27,34429,High School,Suburban,811,0
+Female,39,87808,PhD,Rural,521,0
+Female,51,73015,High School,Urban,630,0
+Female,43,88936,Master,Urban,703,0
+Female,54,77378,Master,Suburban,807,0
+Male,51,58132,PhD,Rural,426,0
+Male,38,37951,Master,Rural,564,0
+Female,64,55256,High School,Urban,314,0
+Female,53,58889,Bachelor,Rural,525,0
+Male,63,39130,Bachelor,Rural,404,0
+Female,35,57207,High School,Urban,792,0
+Male,31,92287,High School,Rural,618,0
+Male,57,81702,Master,Suburban,518,1
+Male,55,66993,Bachelor,Urban,576,1
+Male,30,61875,Bachelor,Urban,640,1
+Female,63,76862,PhD,Rural,751,0
+Male,49,78517,Bachelor,Urban,668,1
+Female,32,39768,Bachelor,Suburban,773,0
+Female,35,46145,Master,Rural,489,1
+Female,60,46442,High School,Suburban,718,0
+Male,40,118388,Bachelor,Rural,794,0
+Male,36,119156,PhD,Urban,338,1
+Male,49,58307,PhD,Urban,461,1
+Female,45,43332,Master,Suburban,420,0
+Female,29,35764,Bachelor,Urban,698,0
+Male,64,93080,Master,Rural,561,1
+Female,30,56370,High School,Suburban,428,0
+Male,54,56312,High School,Urban,839,1
+Female,54,64645,Bachelor,Urban,655,0
+Male,40,87608,Bachelor,Rural,731,1
+Female,24,26372,High School,Suburban,364,0
+Male,31,70277,Bachelor,Urban,517,0
+Female,61,36956,High School,Suburban,726,1
+Female,63,60473,Bachelor,Rural,373,0
+Female,22,33894,Master,Suburban,759,1
+Male,50,75212,Bachelor,Urban,724,1
+Male,55,39637,High School,Urban,491,0
+Male,34,73258,Bachelor,Suburban,488,1
+Male,22,65693,Bachelor,Suburban,311,0
+Male,55,39824,Bachelor,Urban,538,0
+Female,50,37733,Bachelor,Rural,752,1
+Female,34,40080,Bachelor,Suburban,682,1
+Male,50,30215,PhD,Urban,347,0
+Male,60,41523,High School,Rural,616,0
+Male,45,105900,Bachelor,Suburban,508,1
+Female,47,79846,Bachelor,Urban,846,1
+Male,38,53834,Bachelor,Urban,418,0
+Female,28,72960,High School,Suburban,614,0
+Male,34,73066,High School,Urban,335,1
+Female,26,47250,High School,Urban,762,0
+Female,47,68137,PhD,Suburban,702,1
+Male,24,63896,Master,Rural,406,1
+Female,28,63876,Bachelor,Suburban,338,0
+Male,60,58899,Master,Suburban,479,0
+Female,22,52450,High School,Urban,311,1
+Male,38,35583,Master,Urban,638,0
+Female,64,81914,Bachelor,Urban,847,1
+Female,46,83888,Bachelor,Urban,425,0
+Female,24,81293,Master,Rural,362,1
+Female,36,88515,Master,Rural,381,1
+Male,50,107239,Master,Urban,598,1
+Male,64,43329,High School,Urban,333,0
+Male,53,101792,PhD,Urban,348,1
+Male,47,30228,PhD,Rural,356,0
+Female,37,78876,Bachelor,Urban,408,1
+Male,46,67052,High School,Urban,816,0
+Female,49,77857,High School,Rural,323,0
+Female,30,25622,PhD,Urban,520,1
+Female,22,86201,Bachelor,Urban,614,0
+Male,50,63686,Bachelor,Rural,593,0
+Female,43,42995,High School,Urban,309,0
+Female,37,28419,High School,Rural,780,0
+Male,62,32809,Bachelor,Urban,566,0
+Female,62,53837,Bachelor,Urban,387,0
+Female,28,68877,PhD,Urban,754,1
+Male,35,72818,Bachelor,Suburban,832,1
+Male,50,101927,Master,Rural,447,1
+Male,40,95681,High School,Suburban,730,1
+Male,40,109465,High School,Rural,541,0
+Male,23,119862,Bachelor,Rural,365,1
+Male,62,67333,Bachelor,Urban,677,1
+Male,36,46576,High School,Urban,687,0
+Male,24,69405,PhD,Urban,508,1
+Female,32,21102,Bachelor,Urban,714,0
+Male,51,61601,High School,Urban,315,0
+Female,61,66715,High School,Urban,596,0
+Male,39,97356,High School,Urban,519,1
+Male,23,82116,PhD,Urban,666,1
+Male,53,92894,High School,Urban,528,0
+Male,29,64635,Bachelor,Rural,739,1
+Male,43,37465,Bachelor,Suburban,831,0
+Female,27,45570,High School,Urban,749,1
+Male,33,115119,High School,Urban,335,1
+Female,61,41182,High School,Urban,721,0
+Female,57,59373,Bachelor,Suburban,488,0
+Male,36,107733,High School,Urban,477,0
+Male,49,59511,High School,Rural,614,0
+Female,39,36043,Master,Urban,319,1
+Male,23,78821,High School,Urban,681,1
+Male,34,95776,Master,Urban,442,0
+Female,36,39239,Master,Urban,361,1
+Male,41,105135,Bachelor,Suburban,541,1
+Female,50,23412,Bachelor,Urban,537,0
+Female,63,44406,High School,Rural,430,0
+Male,50,62574,Master,Rural,422,1
+Male,24,71910,Bachelor,Rural,739,0
+Male,40,103531,Bachelor,Urban,641,0
+Male,24,55186,High School,Urban,718,1
+Male,35,52813,PhD,Urban,754,1
+Female,61,34691,High School,Urban,497,0
+Male,25,115525,Bachelor,Rural,581,1
+Male,32,108282,Bachelor,Urban,300,0
+Female,52,30794,High School,Rural,631,0
+Female,64,88470,Bachelor,Urban,511,1
+Female,53,36406,Master,Suburban,386,0
+Male,48,102104,Master,Urban,360,1
+Female,51,61708,Master,Urban,394,1
+Male,64,36080,Bachelor,Suburban,446,1
+Male,23,43854,Bachelor,Urban,545,0
+Male,30,97695,High School,Suburban,596,1
+Female,49,41352,Bachelor,Urban,422,0
+Male,52,82982,High School,Urban,755,1
+Male,55,71081,Bachelor,Rural,698,0
+Male,36,34368,Bachelor,Suburban,530,1
+Male,46,57094,Bachelor,Urban,833,1
+Female,57,67279,Bachelor,Suburban,701,0
+Female,29,74213,PhD,Rural,429,0
+Female,30,33026,Bachelor,Suburban,591,0
+Male,58,53991,PhD,Urban,575,1
+Male,60,31301,Master,Urban,675,0
+Male,53,58610,Bachelor,Suburban,354,1
+Male,38,111463,Bachelor,Suburban,325,0
+Male,56,64678,High School,Urban,740,1
+Female,58,51498,Master,Urban,496,1
+Male,40,110440,Bachelor,Urban,542,1
+Male,50,70875,PhD,Rural,489,1
+Male,28,56081,Bachelor,Urban,575,0
+Male,49,54354,Master,Urban,708,1
+Male,30,48300,Master,Urban,639,1
+Female,49,21587,Bachelor,Rural,452,0
+Female,27,62782,High School,Urban,697,1
+Female,50,74412,Bachelor,Urban,743,0
+Male,38,56532,Bachelor,Rural,726,1
+Male,37,36464,High School,Rural,786,0
+Male,44,46562,Master,Urban,503,0
+Male,52,85514,Bachelor,Urban,411,0
+Female,24,76572,PhD,Rural,624,0
+Male,42,62634,Master,Suburban,557,1
+Male,47,30060,Bachelor,Rural,827,1
+Male,57,39269,PhD,Suburban,649,1
+Male,63,93143,Bachelor,Rural,734,1
+Female,58,56069,Master,Suburban,725,1
+Male,43,32895,Bachelor,Urban,579,0
+Male,63,110859,Bachelor,Urban,670,0
+Male,33,42352,Bachelor,Urban,548,0
+Male,63,79737,Bachelor,Urban,480,0
+Female,34,85294,Bachelor,Rural,377,0
+Female,32,49299,Bachelor,Urban,635,0
+Female,37,66501,Bachelor,Rural,349,1
+Female,29,77134,PhD,Urban,384,1
+Male,61,115382,Bachelor,Urban,303,1
+Female,61,31249,Bachelor,Suburban,616,0
+Male,23,49782,Bachelor,Urban,410,0
+Male,51,97691,Master,Urban,633,0
+Female,51,32881,PhD,Urban,432,0
+Male,33,39196,Bachelor,Suburban,418,0
+Female,31,27833,High School,Urban,649,0
+Male,32,117245,Bachelor,Rural,841,1
+Female,36,83620,Bachelor,Urban,354,1
+Female,37,35754,Master,Rural,660,0
+Female,38,55282,Bachelor,Urban,752,1
+Female,47,56737,PhD,Rural,629,0
+Female,23,44124,Bachelor,Suburban,518,0
+Male,33,35269,PhD,Rural,507,0
+Male,47,73880,High School,Rural,384,1
+Male,44,38320,Master,Rural,544,1
+Female,39,54077,PhD,Rural,634,1
+Male,53,106276,PhD,Urban,511,1
+Female,59,32055,High School,Rural,482,0
+Male,24,88565,High School,Urban,432,1
+Male,59,60930,Bachelor,Urban,649,1
+Female,24,77654,High School,Urban,581,1
+Male,51,112821,High School,Urban,592,1
+Male,22,44380,High School,Urban,568,0
+Male,51,106896,Bachelor,Rural,496,0
+Female,53,62733,Bachelor,Urban,836,1
+Female,49,31760,High School,Urban,319,0
+Male,42,35529,High School,Rural,704,0
+Male,34,112987,Bachelor,Urban,414,0
+Male,48,79178,Bachelor,Rural,325,1
+Female,57,60100,High School,Rural,694,1
+Female,28,24944,Bachelor,Suburban,680,0
+Male,43,79699,PhD,Rural,822,1
+Male,31,106396,PhD,Urban,838,1
+Male,60,55279,PhD,Urban,382,1
+Female,36,75283,Master,Urban,849,1
+Female,36,23258,Bachelor,Suburban,744,1
+Male,25,70544,Bachelor,Urban,386,1
+Male,53,38997,Bachelor,Urban,686,0
+Male,44,115711,Bachelor,Urban,697,1
+Female,27,59465,Bachelor,Suburban,585,1
+Male,45,33225,Bachelor,Urban,668,0
+Female,41,54207,Bachelor,Suburban,721,0
+Female,58,42553,High School,Urban,742,0
+Male,41,81880,Master,Urban,819,1
+Male,33,91078,High School,Urban,587,1
+Male,54,118646,High School,Suburban,394,0
+Female,49,86205,High School,Suburban,340,0
+Female,29,45318,Bachelor,Urban,630,0
+Female,22,53734,High School,Urban,454,1
+Male,58,73601,PhD,Rural,803,1
+Male,43,33114,Bachelor,Urban,574,0
+Female,27,35893,Bachelor,Urban,478,0
+Female,42,36493,Bachelor,Urban,436,0
+Male,53,78128,Bachelor,Urban,479,1
+Female,56,81779,Master,Urban,481,1
+Female,36,58452,Bachelor,Urban,558,1
+Female,26,33266,Master,Urban,542,0
+Female,27,81607,PhD,Suburban,395,1
+Female,46,36940,Master,Urban,496,0
+Female,61,44003,Bachelor,Rural,825,0
+Male,50,65929,High School,Urban,686,0
+Male,28,34321,Bachelor,Rural,707,1
+Female,61,69297,Bachelor,Urban,568,0
+Male,34,102635,Master,Rural,470,1
+Male,59,53760,Master,Urban,469,1
+Male,39,41360,Master,Suburban,458,0
+Male,23,40313,Master,Urban,808,0
+Female,29,28837,High School,Urban,746,0
+Female,32,84210,High School,Suburban,381,0
+Male,54,44130,High School,Rural,356,0
+Male,59,44271,PhD,Urban,818,0
+Male,48,46075,Master,Suburban,411,0
+Female,41,20370,Bachelor,Urban,347,0
+Female,33,20486,Master,Urban,675,0
+Male,64,90942,Master,Suburban,332,1
+Female,52,46613,PhD,Urban,803,1
+Female,48,23196,Master,Suburban,302,1
+Female,53,84839,Bachelor,Urban,785,1
+Female,31,61916,Bachelor,Rural,815,0
+Male,24,99101,High School,Rural,341,0
+Female,48,48225,Bachelor,Suburban,308,0
+Male,56,80617,Bachelor,Rural,441,0
+Female,52,69390,High School,Urban,735,1
+Female,36,52275,Master,Rural,326,0
+Female,37,21105,Bachelor,Urban,342,0
+Female,34,79896,PhD,Suburban,430,0
+Male,56,45630,High School,Suburban,515,0
+Male,32,50056,Bachelor,Urban,819,1
+Female,42,38051,Bachelor,Suburban,644,0
+Female,32,86961,High School,Urban,807,0
+Male,51,111685,Bachelor,Urban,712,1
+Male,56,78639,High School,Urban,545,1
+Male,43,89838,High School,Rural,748,0
+Female,59,38976,High School,Urban,320,0
+Female,52,76866,High School,Suburban,707,0
+Male,35,102394,Master,Urban,756,1
+Male,45,97657,High School,Rural,743,1
+Female,53,35401,Bachelor,Urban,564,0
+Female,57,32884,Master,Suburban,483,0
+Male,53,81375,Bachelor,Urban,526,1
+Female,36,54414,PhD,Rural,847,1
+Male,64,49572,Master,Urban,545,1
+Male,56,34136,Master,Rural,372,0
+Female,24,47862,High School,Urban,449,1
+Female,37,25190,Master,Rural,812,0
+Female,26,24331,Master,Urban,368,0
+Female,42,72186,Bachelor,Suburban,529,1
+Female,31,64648,High School,Urban,371,0
+Male,40,34823,Bachelor,Urban,696,0
+Male,46,100456,Master,Urban,383,1
+Male,25,49585,Bachelor,Urban,598,1
+Male,50,47272,Master,Urban,592,1
+Female,40,73472,High School,Suburban,522,0
+Female,64,24677,Master,Suburban,515,0
+Male,23,69895,High School,Rural,530,1
+Male,31,33720,High School,Urban,704,0
+Female,64,80148,Bachelor,Urban,468,0
+Male,46,45696,High School,Rural,628,0
+Female,41,54457,High School,Urban,725,0
+Female,40,62531,High School,Suburban,495,1
+Female,44,83171,Bachelor,Urban,825,0
+Male,45,81567,PhD,Suburban,376,1
+Male,32,91607,Master,Urban,576,1
+Female,55,57289,Bachelor,Suburban,765,0
+Female,49,53892,High School,Urban,747,1
+Male,26,96900,Bachelor,Suburban,619,1
+Female,26,54470,Master,Urban,459,1
+Male,42,95425,Bachelor,Rural,791,0
+Female,33,43296,High School,Suburban,612,0
+Male,25,112844,High School,Urban,460,0
+Female,63,46382,Master,Urban,607,0
+Male,41,87196,Bachelor,Urban,445,0
+Male,59,109401,Master,Urban,695,1
+Male,46,30495,Bachelor,Urban,388,0
+Male,35,74755,High School,Urban,607,0
+Female,32,55169,Bachelor,Urban,845,0
+Female,53,82182,Bachelor,Rural,670,1
+Male,32,108929,High School,Rural,750,1
+Male,39,31552,High School,Urban,466,1
+Female,48,66144,High School,Suburban,691,0
+Female,39,81772,High School,Suburban,790,1
+Female,44,33444,Bachelor,Rural,449,0
+Male,32,104462,PhD,Urban,767,1
+Male,42,53889,Bachelor,Urban,342,1
+Female,26,58383,Bachelor,Rural,328,0
+Male,44,103591,Bachelor,Rural,330,0
+Female,62,28077,Bachelor,Urban,427,0
+Male,46,52634,High School,Rural,593,0
+Female,62,75612,Bachelor,Urban,740,1
+Male,31,93752,Bachelor,Urban,687,1
+Female,43,59710,High School,Rural,823,1
+Male,40,86398,Master,Rural,846,1
+Female,22,26458,Bachelor,Urban,409,0
+Male,28,112916,Bachelor,Rural,627,0
+Female,25,26853,High School,Suburban,704,0
+Female,22,60477,Bachelor,Rural,544,1
+Female,36,52222,Master,Rural,462,0
+Female,61,38320,High School,Urban,698,1
+Female,33,72243,High School,Urban,698,0
+Female,43,65615,Bachelor,Urban,792,1
+Male,43,72137,High School,Rural,538,1
+Female,38,23203,Bachelor,Suburban,764,0
+Male,50,37853,Bachelor,Urban,331,0
+Male,35,42379,High School,Urban,422,0
+Male,41,45792,High School,Urban,833,0
+Male,54,68367,Bachelor,Urban,409,1
+Female,64,61941,High School,Suburban,570,0
+Female,36,72683,High School,Rural,679,0
+Female,33,20801,Master,Urban,599,1
+Male,61,30786,Bachelor,Rural,548,0
+Male,41,99904,Bachelor,Rural,820,1
+Male,51,60699,High School,Rural,333,1
+Male,59,77691,Bachelor,Urban,527,1
+Male,24,67040,Bachelor,Urban,698,1
+Male,49,87986,PhD,Urban,519,0
+Male,47,68762,Master,Suburban,670,1
+Female,51,50720,High School,Rural,827,0
+Female,34,29972,Bachelor,Rural,374,0
+Female,34,53351,Bachelor,Urban,435,0
+Female,23,56145,Bachelor,Urban,373,1
+Female,58,76235,Master,Urban,553,1
+Male,59,50085,Bachelor,Suburban,317,1
+Female,23,56169,High School,Urban,342,1
+Female,57,66404,Bachelor,Urban,349,1
+Male,47,114269,High School,Suburban,814,1
+Male,32,69779,Master,Rural,602,1
+Female,29,68506,Bachelor,Suburban,441,0
+Male,61,63980,Bachelor,Urban,501,1
+Female,64,26772,High School,Rural,506,0
+Female,43,39731,Master,Urban,714,1
+Male,41,39344,Master,Suburban,520,0
+Male,29,45896,Bachelor,Urban,661,0
+Male,50,119353,High School,Urban,380,1
+Male,61,59813,Bachelor,Suburban,584,1
+Male,47,114431,High School,Rural,668,1
+Female,51,27612,High School,Rural,791,1
+Male,38,40681,High School,Urban,645,0
+Male,41,102903,High School,Urban,503,1
+Male,37,33228,Bachelor,Rural,324,0
+Female,64,75897,PhD,Rural,368,0
+Male,28,108683,Bachelor,Suburban,815,1
+Male,37,41397,High School,Rural,791,0
+Female,48,38706,Bachelor,Urban,539,0
+Female,44,63516,Bachelor,Suburban,660,0
+Male,45,109183,High School,Urban,740,0
+Female,30,66910,PhD,Urban,330,1
+Male,56,72317,Bachelor,Urban,621,1
+Male,41,77914,PhD,Urban,643,1
+Male,58,114633,Bachelor,Suburban,835,1
+Male,63,75254,Bachelor,Rural,654,1
+Female,38,58015,High School,Rural,770,1
+Male,52,83785,Bachelor,Urban,404,0
+Male,29,82344,High School,Urban,621,0
+Female,36,32818,Master,Urban,826,1
+Female,52,83001,Master,Rural,803,0
+Male,51,101091,Master,Urban,384,1
+Female,41,69832,Master,Suburban,534,0
+Male,60,58412,Master,Urban,562,1
+Female,33,65784,High School,Urban,305,1
+Female,38,29921,Bachelor,Rural,793,0
+Female,63,54959,Bachelor,Suburban,588,0
+Male,51,101216,Bachelor,Urban,649,1
+Male,50,55739,Master,Rural,499,1
+Male,40,51209,High School,Suburban,634,0
